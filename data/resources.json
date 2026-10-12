@@ -1102,6 +1102,18 @@
     "subsection": "Gap Year & Study Abroad"
   },
   {
+    "name": "GradAtlas",
+    "url": "https://7aslann7.github.io/gradatlas/",
+    "description": "Explore master's programmes, compare options and export research to Excel",
+    "pricing": "free",
+    "tags": [
+      "FOSS",
+      "free"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Gap Year & Study Abroad"
+  },
+  {
     "name": "IAESTE",
     "url": "https://iaeste.org",
     "description": "Free registration for paid technical internships abroad worldwide",

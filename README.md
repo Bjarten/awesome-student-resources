@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-306-blue)
+![Resources](https://img.shields.io/badge/resources-307-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -36,7 +36,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🎓  | [Student Discounts & Free Access](#student-discounts--free-access)             |    22     |
 | 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |    19     |
 | 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |    18     |
-| 🎯  | [University & Career Prep](#university--career-prep)                           |    66     |
+| 🎯  | [University & Career Prep](#university--career-prep)                           |    67     |
 | 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |    19     |
 | 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |    18     |
 | 🏠  | [Homeschooling](#homeschooling)                                                |    18     |
@@ -217,6 +217,7 @@ Hackathons, competitions, and the tools to build something worth entering.
 - **[EU Immigration Portal](https://home-affairs.ec.europa.eu/policies/migration-and-asylum/legal-migration-and-resettlement/study-and-research_en)** - Official European Commission guidance on study visas and residence permits across the EU ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Gap Year Association](https://www.gapyearassociation.org)** - Accredited gap year program directory and planning resources ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[GoAbroad](https://www.goabroad.com)** - Directory of study abroad, volunteer, and internship programs worldwide ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
+- **[GradAtlas](https://7aslann7.github.io/gradatlas/)** - Explore master's programmes, compare options and export research to Excel ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[IAESTE](https://iaeste.org)** - Free registration for paid technical internships abroad worldwide ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[International Student Insurance](https://www.internationalstudentinsurance.com)** - Compare travel and health insurance plans built for study-abroad students ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[JASSO](https://www.jasso.go.jp/en/index.html)** - Japan's official student exchange support, scholarships, and study-abroad services ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
