@@ -65,6 +65,24 @@ user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTM
 # apparently sometimes hangs instead of returning it. Society of Women
 # Engineers is a live, active organization; excluding rather than removing
 # the scholarships entry.
+# telemanas.mohfw.gov.in and www.nsfas.org.za: reported in the #556 and #561 runs as
+# "SSL certificate not trusted". Manually verified (curl, openssl s_client) that both
+# serve a leaf certificate without the intermediate needed to complete the chain
+# (same server-side misconfiguration as ncfe.org.in above), while curl returns a clean
+# HTTP 200 with real content. Tele-MANAS is India's government mental health helpline
+# and NSFAS is South Africa's national student funding scheme; both are live.
+#
+# www.dfat.gov.au/.../australia-awards.aspx: reported in #556 and #561 as "HTTP/2 protocol
+# error". Same dfat.gov.au edge behavior as the New Colombo Plan entry above (HTTP/2
+# internal error, HTTP/1.1 hangs until timeout, reproduced with curl); web search confirms
+# the Australia Awards program page is live at this domain. Excluding rather than removing.
+#
+# www.jobbank.gc.ca/youth: reported in #561 as "Connection reset by peer"; absent from the
+# #556 run, and curl returns a clean 200 with real content. Intermittent resets from the
+# CI runner range, same signature as the other Government of Canada exclusion above.
+#
+# cuet.nta.nic.in: timed out in the #556 run, passed in #561; curl returns 200. A slow
+# Indian government host, not a dead one, so excluded to stop it flapping the check.
 exclude = [
   "https://www.autodesk.com/education/edu-software/overview",
   "https://freedomhomeschooling.com/",
@@ -76,4 +94,9 @@ exclude = [
   "https://www.dewr.gov.au/australian-apprenticeships",
   "https://ncfe.org.in/",
   "https://swe.org/apply-for-a-swe-scholarship/",
+  "https://telemanas.mohfw.gov.in/",
+  "https://www.nsfas.org.za/content/repayments.html",
+  "https://www.dfat.gov.au/people-to-people/australia-awards/pages/australia-awards.aspx",
+  "https://www.jobbank.gc.ca/youth",
+  "https://cuet.nta.nic.in/",
 ]
