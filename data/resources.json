@@ -1708,6 +1708,17 @@
     "subsection": null
   },
   {
+    "name": "Australian Debating Federation",
+    "url": "https://debating.org.au/",
+    "description": "Australia's peak body for school debating and the national championships",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Debate & Public Speaking",
+    "subsection": null
+  },
+  {
     "name": "Best Delegate",
     "url": "https://bestdelegate.com",
     "description": "Free Model UN guides, cheat sheets, and training resources",
@@ -3363,6 +3374,17 @@
     "name": "ESN (Erasmus Student Network)",
     "url": "https://esn.org",
     "description": "Nonprofit network connecting international and exchange students through local support and events",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Communities",
+    "subsection": null
+  },
+  {
+    "name": "Everytime",
+    "url": "https://everytime.kr",
+    "description": "Korean campus community app with timetables, course reviews, and school boards",
     "pricing": "free",
     "tags": [
       "free"

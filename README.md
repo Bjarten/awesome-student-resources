@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-324-blue)
+![Resources](https://img.shields.io/badge/resources-326-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -38,7 +38,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |    19     |
 | 🎯  | [University & Career Prep](#university--career-prep)                           |    71     |
 | 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |    19     |
-| 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |    19     |
+| 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |    20     |
 | 🏠  | [Homeschooling](#homeschooling)                                                |    18     |
 | 🔓  | [FOSS Picks](#foss-picks)                                                      |    25     |
 | 📦  | [Helpful Repositories](#helpful-repositories)                                  |    13     |
@@ -46,7 +46,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    17     |
 | 💡  | [Guides & How-Tos](#guides--how-tos)                                           |    16     |
 | 🧘  | [Mental Health & Wellbeing](#mental-health--wellbeing)                         |    23     |
-| 👥  | [Communities](#communities)                                                    |    21     |
+| 👥  | [Communities](#communities)                                                    |    22     |
 
 [More from StudentSuite](#more-from-studentsuite) &middot; [Sister lists](#sister-lists) &middot; [A Note on Links](#a-note-on-links) &middot; [Quality Standards](#quality-standards) &middot; [Contributing](#contributing) &middot; [Contributors](#contributors) &middot; [License](#license)
 
@@ -304,6 +304,7 @@ Argumentation, Model UN, and speaking skills that carry into essays and intervie
 - **[African Debating Program](https://www.africandebatingprogram.org.za/)** - Join school debating championships spanning African countries ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[American Speech and Debate Association](https://www.americanspeech.org/)** - Free handbooks, ballots, rubrics, and white papers for speech and debate ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Asociación Mexicana de Debate](https://www.debatemexico.org/quienes-somos)** - Mexico's national debate association running school and university tournaments ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
+- **[Australian Debating Federation](https://debating.org.au/)** - Australia's peak body for school debating and the national championships ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Best Delegate](https://bestdelegate.com)** - Free Model UN guides, cheat sheets, and training resources ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[Canadian Student Debating Federation](https://csdf-fcde.ca/)** - Canada's national high school debate federation, seminars, and championships ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[English-Speaking Union](https://www.esu.org)** - International nonprofit promoting debate, public speaking, and language skills ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
@@ -548,6 +549,7 @@ Ask questions and study alongside other students.
 - **[Academia Stack Exchange](https://academia.stackexchange.com)** - Q&A on academic life, research, and navigating school systems ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[AnitaB.org](https://anitab.org)** - Global nonprofit community, mentorship, and career network for women in tech ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[ESN (Erasmus Student Network)](https://esn.org)** - Nonprofit network connecting international and exchange students through local support and events ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Everytime](https://everytime.kr)** - Korean campus community app with timetables, course reviews, and school boards ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Focusmate](https://www.focusmate.com)** - Free virtual body-doubling sessions to stay accountable while studying ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[FOSSASIA](https://fossasia.org)** - Asia-based open tech community with student coding programs and internships ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[I'm First](https://www.imfirst.org)** - Free community and guidance for first-generation college students ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
