@@ -2018,6 +2018,18 @@
     "subsection": null
   },
   {
+    "name": "Excalidraw",
+    "url": "https://excalidraw.com",
+    "description": "Free, open-source virtual whiteboard for sketching hand-drawn diagrams",
+    "pricing": "free",
+    "tags": [
+      "FOSS",
+      "free"
+    ],
+    "section": "FOSS Picks",
+    "subsection": null
+  },
+  {
     "name": "Firefly III",
     "url": "https://www.firefly-iii.org",
     "description": "Free, open, self-hosted personal finance and budgeting manager",
