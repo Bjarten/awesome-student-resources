@@ -968,6 +968,17 @@
     "subsection": "Building & Competitions"
   },
   {
+    "name": "Junction",
+    "url": "https://hackjunction.com",
+    "description": "Student-run 48-hour hackathon in Finland, among Europe's largest",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Building & Competitions"
+  },
+  {
     "name": "MLH",
     "url": "https://mlh.io/",
     "description": "Free calendar of student hackathons and events worldwide",

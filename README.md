@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-321-blue)
+![Resources](https://img.shields.io/badge/resources-322-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -36,7 +36,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🎓  | [Student Discounts & Free Access](#student-discounts--free-access)             |    23     |
 | 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |    20     |
 | 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |    19     |
-| 🎯  | [University & Career Prep](#university--career-prep)                           |    69     |
+| 🎯  | [University & Career Prep](#university--career-prep)                           |    70     |
 | 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |    19     |
 | 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |    19     |
 | 🏠  | [Homeschooling](#homeschooling)                                                |    18     |
@@ -197,6 +197,7 @@ Hackathons, competitions, and the tools to build something worth entering.
 - **[Hack Club](https://hackclub.com)** - Nonprofit network of free coding clubs and hackathons for teens ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Hack&Roll](https://hacknroll.nushackers.org/)** - NUS Hackers' free annual 24-hour student hackathon in Singapore ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[HackMTY](https://hackmty.com)** - Student-run hackathon at Tec de Monterrey for Latin America ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Junction](https://hackjunction.com)** - Student-run 48-hour hackathon in Finland, among Europe's largest ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[MLH](https://mlh.io/)** - Free calendar of student hackathons and events worldwide ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[openvidstudio](https://openvidstudio.vercel.app)** - Open-source Remotion pipeline for AI agents to build quick product demo videos ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Regeneron ISEF](https://www.societyforscience.org/isef/)** - The world's largest pre-college science and engineering fair ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
