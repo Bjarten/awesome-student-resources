@@ -748,6 +748,17 @@
     "subsection": "Applications & Resumes"
   },
   {
+    "name": "Europass",
+    "url": "https://europass.europa.eu",
+    "description": "EU's free CV and cover letter builder with skills tools",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Applications & Resumes"
+  },
+  {
     "name": "JobStreet Career Advice",
     "url": "https://my.jobstreet.com/career-advice",
     "description": "Use resume templates and a practice interview tool for Southeast Asia",
