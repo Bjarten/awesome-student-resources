@@ -858,6 +858,17 @@
     "subsection": "Applications & Resumes"
   },
   {
+    "name": "UCAS Personal Statement Guide",
+    "url": "https://www.ucas.com/applying/applying-to-university/writing-your-personal-statement",
+    "description": "UCAS's free guide to writing a UK university personal statement",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Applications & Resumes"
+  },
+  {
     "name": "University of Edinburgh LinkedIn Guide",
     "url": "https://careers.ed.ac.uk/cvs-and-applications/creating-a-linkedin-profile",
     "description": "Careers-service guide to building a strong student LinkedIn profile",
