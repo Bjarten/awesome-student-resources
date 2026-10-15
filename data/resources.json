@@ -209,6 +209,17 @@
     "subsection": null
   },
   {
+    "name": "StudentCard",
+    "url": "https://www.studentcard.co.nz",
+    "description": "New Zealand's student discount card for retail, food, and travel",
+    "pricing": "paid",
+    "tags": [
+      "paid"
+    ],
+    "section": "Student Discounts & Free Access",
+    "subsection": null
+  },
+  {
     "name": "StudentVerse",
     "url": "https://studentverse.ae/",
     "description": "UAE student ID app unlocking discounts on food, fitness, housing, and entertainment",
