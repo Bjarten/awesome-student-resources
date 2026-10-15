@@ -18,6 +18,10 @@ jobs:
       - name: Link Checker
         id: lychee
         uses: lycheeverse/lychee-action@v2
+        env:
+          # Authenticated GitHub requests avoid the intermittent 504s/429s that
+          # unauthenticated runner IPs get on the many github.com links in the README.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           args: --config lychee.toml --no-progress README.md CONTRIBUTING.md CODE_OF_CONDUCT.md CHANGELOG.md
           format: markdown
