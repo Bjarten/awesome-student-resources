@@ -2876,6 +2876,17 @@
     "subsection": null
   },
   {
+    "name": "How to Read a Paper",
+    "url": "https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf",
+    "description": "S. Keshav's three-pass method for reading research papers",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Guides & How-Tos",
+    "subsection": null
+  },
+  {
     "name": "How to Remember Anything Forever-ish",
     "url": "https://ncase.me/remember/",
     "description": "Playable primer on spaced repetition",

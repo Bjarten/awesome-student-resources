@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-313-blue)
+![Resources](https://img.shields.io/badge/resources-314-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -44,7 +44,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 📦  | [Helpful Repositories](#helpful-repositories)                                  |    13     |
 | 📖  | [Books We Trust](#books-we-trust)                                              |    17     |
 | 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    17     |
-| 💡  | [Guides & How-Tos](#guides--how-tos)                                           |    15     |
+| 💡  | [Guides & How-Tos](#guides--how-tos)                                           |    16     |
 | 🧘  | [Mental Health & Wellbeing](#mental-health--wellbeing)                         |    22     |
 | 👥  | [Communities](#communities)                                                    |    20     |
 
@@ -479,6 +479,7 @@ Meta-skills: how to study, remember, and focus.
 - **[Anki Manual](https://docs.ankiweb.net/)** - The official guide to spaced repetition with Anki ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Cornell Note-Taking System](https://lsc.cornell.edu/how-to-study/taking-notes/cornell-note-taking-system/)** - Cornell University's official guide to the Cornell note-taking method ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Feynman Technique](https://fs.blog/feynman-technique/)** - Learn any topic by explaining it in simple terms ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)** - S. Keshav's three-pass method for reading research papers ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[How to Remember Anything Forever-ish](https://ncase.me/remember/)** - Playable primer on spaced repetition ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Interleaving](https://academicaffairs.arizona.edu/Interleaving)** - University of Arizona's free guide to mixing topics while studying for better retention ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)** - The popular free course on how learning works ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
