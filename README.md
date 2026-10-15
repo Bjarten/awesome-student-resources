@@ -82,7 +82,7 @@ Legitimate free or discounted access students often miss, verify with a school e
 - **[Student Beans](https://www.studentbeans.com)** - Verifies student status for discounts across fashion, food, and tech brands worldwide ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[StudentVerse](https://studentverse.ae/)** - UAE student ID app unlocking discounts on food, fitness, housing, and entertainment ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[UNiDAYS](https://www.myunidays.com)** - Free student-verification platform unlocking discounts across hundreds of brands ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[Varsity Vibe](https://www.varsityvibe.co.za)** - South African student discount app with deals from local brands ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Varsity Vibe](https://www.varsityvibe.co.za)** - South African student discount app with deals from local brands ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 
 </details>
 
@@ -192,7 +192,7 @@ Hackathons, competitions, and the tools to build something worth entering.
 - **[Devpost](https://devpost.com/)** - Student hackathon platform with thousands of student-run events ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Hack Club](https://hackclub.com)** - Nonprofit network of free coding clubs and hackathons for teens ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Hack&Roll](https://hacknroll.nushackers.org/)** - NUS Hackers' free annual 24-hour student hackathon in Singapore ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[HackMTY](https://hackmty-26.devpost.com/)** - Student-run hackathon at Tec de Monterrey for Latin America ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[HackMTY](https://hackmty.com)** - Student-run hackathon at Tec de Monterrey for Latin America ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[MLH](https://mlh.io/)** - Free calendar of student hackathons and events worldwide ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[openvidstudio](https://openvidstudio.vercel.app)** - Open-source Remotion pipeline for AI agents to build quick product demo videos ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Regeneron ISEF](https://www.societyforscience.org/isef/)** - The world's largest pre-college science and engineering fair ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
@@ -265,7 +265,7 @@ Apprenticeships, trades, and bootcamps for students on a non-degree path.
 
 - **[Apprenticeship.gov](https://www.apprenticeship.gov)** - The official US government registered apprenticeship finder ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Australian Apprenticeships](https://www.dewr.gov.au/australian-apprenticeships)** - The Australian government's hub for apprenticeship and traineeship pathways and support ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[Careerhelp](https://career.help)** - Explains 847 US and Canadian careers one screen at a time ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Careerhelp](https://career.help)** - Explains US and Canadian careers one screen at a time ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Course Report](https://www.coursereport.com)** - Free directory and reviews of coding and tech bootcamps worldwide ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Find an Apprenticeship](https://www.gov.uk/apply-apprenticeship)** - The official UK government apprenticeship search and application service ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Harambee Youth Employment Accelerator](https://www.harambee.co.za)** - Connect South African youth to entry-level work and skills ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).

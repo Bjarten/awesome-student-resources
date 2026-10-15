@@ -234,9 +234,9 @@
     "name": "Varsity Vibe",
     "url": "https://www.varsityvibe.co.za",
     "description": "South African student discount app with deals from local brands",
-    "pricing": "free",
+    "pricing": "freemium",
     "tags": [
-      "free"
+      "freemium"
     ],
     "section": "Student Discounts & Free Access",
     "subsection": null
@@ -914,7 +914,7 @@
   },
   {
     "name": "HackMTY",
-    "url": "https://hackmty-26.devpost.com/",
+    "url": "https://hackmty.com",
     "description": "Student-run hackathon at Tec de Monterrey for Latin America",
     "pricing": "free",
     "tags": [
@@ -1413,7 +1413,7 @@
   {
     "name": "Careerhelp",
     "url": "https://career.help",
-    "description": "Explains 847 US and Canadian careers one screen at a time",
+    "description": "Explains US and Canadian careers one screen at a time",
     "pricing": "free",
     "tags": [
       "free"
