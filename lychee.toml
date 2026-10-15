@@ -83,6 +83,11 @@ user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTM
 # #556 run, and curl returns a clean 200 with real content. Intermittent resets from the
 # CI runner range, same signature as the other Government of Canada exclusion above.
 #
+# studyinindia.gov.in: reported in the 2026-10-15 manual run as "SSL certificate not trusted".
+# Same missing-intermediate-certificate misconfiguration as telemanas/nsfas above (openssl
+# reports "unable to verify the first certificate"); curl returns a clean 200. Official
+# Government of India study-in-India portal, live.
+#
 # cuet.nta.nic.in: timed out in the #556 run, passed in #561; curl returns 200. A slow
 # Indian government host, not a dead one, so excluded to stop it flapping the check.
 exclude = [
@@ -101,4 +106,5 @@ exclude = [
   "https://www.dfat.gov.au/people-to-people/australia-awards/pages/australia-awards.aspx",
   "https://www.jobbank.gc.ca/youth",
   "https://cuet.nta.nic.in/",
+  "https://studyinindia.gov.in/",
 ]
