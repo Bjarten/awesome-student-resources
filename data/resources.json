@@ -517,6 +517,17 @@
     "subsection": null
   },
   {
+    "name": "IRS Publication 970",
+    "url": "https://www.irs.gov/publications/p970",
+    "description": "IRS guide to education credits, deductions, and student loan interest",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Financial Literacy & Money Management",
+    "subsection": null
+  },
+  {
     "name": "Khan Academy Personal Finance",
     "url": "https://www.khanacademy.org/college-careers-more/personal-finance",
     "description": "Free course covering budgeting, credit, and investing basics",
