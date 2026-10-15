@@ -2365,6 +2365,17 @@
     "subsection": null
   },
   {
+    "name": "first-contributions",
+    "url": "https://github.com/firstcontributions/first-contributions",
+    "description": "Practice making your first open-source pull request step by step",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Helpful Repositories",
+    "subsection": null
+  },
+  {
     "name": "free-programming-books",
     "url": "https://github.com/EbookFoundation/free-programming-books",
     "description": "Massive curated list of free programming and computer-science books",
