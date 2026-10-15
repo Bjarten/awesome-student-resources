@@ -3468,5 +3468,16 @@
     ],
     "section": "Communities",
     "subsection": null
+  },
+  {
+    "name": "The GradCafe",
+    "url": "https://www.thegradcafe.com",
+    "description": "Grad school applicant forums with admissions results and advice",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Communities",
+    "subsection": null
   }
 ]
