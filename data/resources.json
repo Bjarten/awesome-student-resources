@@ -3250,6 +3250,17 @@
     "subsection": null
   },
   {
+    "name": "Nightline Europe",
+    "url": "https://nightlines.eu/europe/",
+    "description": "Network of student-run anonymous listening services across Europe",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Mental Health & Wellbeing",
+    "subsection": null
+  },
+  {
     "name": "SADAG",
     "url": "https://www.sadag.org",
     "description": "South African helplines and free support groups for depression and anxiety",
