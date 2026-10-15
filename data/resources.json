@@ -2234,6 +2234,18 @@
     "subsection": null
   },
   {
+    "name": "TeXstudio",
+    "url": "https://www.texstudio.org",
+    "description": "Free, open LaTeX editor with syntax highlighting and an integrated viewer",
+    "pricing": "free",
+    "tags": [
+      "FOSS",
+      "free"
+    ],
+    "section": "FOSS Picks",
+    "subsection": null
+  },
+  {
     "name": "Thunderbird",
     "url": "https://www.thunderbird.net/",
     "description": "Free, open-source email client with calendar and contacts built in",
