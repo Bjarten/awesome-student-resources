@@ -429,6 +429,17 @@
     "subsection": null
   },
   {
+    "name": "Student Awards",
+    "url": "https://studentawards.com",
+    "description": "Searchable database of Canadian scholarships, browsable by province",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Scholarships & Financial Aid",
+    "subsection": null
+  },
+  {
     "name": "Study in Japan",
     "url": "https://www.studyinjapan.go.jp/en/planning/scholarships/",
     "description": "Japanese government hub for MEXT, JASSO, and university scholarships to study in Japan",

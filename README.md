@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-318-blue)
+![Resources](https://img.shields.io/badge/resources-319-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 |     | Section                                                                        | Resources |
 | :-: | ------------------------------------------------------------------------------ | :-------: |
 | 🎓  | [Student Discounts & Free Access](#student-discounts--free-access)             |    22     |
-| 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |    19     |
+| 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |    20     |
 | 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |    19     |
 | 🎯  | [University & Career Prep](#university--career-prep)                           |    68     |
 | 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |    19     |
@@ -112,6 +112,7 @@ Legitimate, fee-free places to find money for school.
 - **[Scholars4Dev](https://www.scholars4dev.com)** - Free scholarship search engine for students across Asia, Africa, and other developing regions ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Scholarships.com](https://www.scholarships.com)** - Free, vetted search across millions of scholarships and grants ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Society of Women Engineers Scholarships](https://swe.org/apply-for-a-swe-scholarship/)** - Free-to-apply scholarships for women pursuing engineering degrees ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Student Awards](https://studentawards.com)** - Searchable database of Canadian scholarships, browsable by province ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Study in Japan](https://www.studyinjapan.go.jp/en/planning/scholarships/)** - Japanese government hub for MEXT, JASSO, and university scholarships to study in Japan ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[The Scholarship Hub](https://www.thescholarshiphub.org.uk)** - No-fee search across UK scholarships, bursaries, and grants ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 
