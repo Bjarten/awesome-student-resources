@@ -9,9 +9,11 @@
 accept = [200, 202, 206, 403, 429]
 
 max_concurrency = 8
-timeout = 20
+# Raised from 20s: slow government hosts abroad (e.g. studyinkorea.go.kr, 200 in ~2s from
+# a home network but timing out from the US-based CI runner) flapped the check.
+timeout = 45
 retry_wait_time = 2
-max_retries = 2
+max_retries = 3
 
 user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
 
