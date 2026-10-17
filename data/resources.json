@@ -1532,6 +1532,17 @@
     "subsection": "Part-Time & Student Jobs"
   },
   {
+    "name": "Wyzant",
+    "url": "https://www.wyzant.com",
+    "description": "Tutor students one-on-one and set your own hourly rate",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Part-Time & Student Jobs"
+  },
+  {
     "name": "Apprenticeship.gov",
     "url": "https://www.apprenticeship.gov",
     "description": "The official US government registered apprenticeship finder",
