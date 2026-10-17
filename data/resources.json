@@ -2604,6 +2604,18 @@
     "subsection": null
   },
   {
+    "name": "progit2",
+    "url": "https://github.com/progit/progit2",
+    "description": "Read the open-source Pro Git book, source and builds",
+    "pricing": "free",
+    "tags": [
+      "FOSS",
+      "free"
+    ],
+    "section": "Helpful Repositories",
+    "subsection": null
+  },
+  {
     "name": "public-apis",
     "url": "https://github.com/public-apis/public-apis",
     "description": "Directory of free public APIs for hackathon and side projects",
