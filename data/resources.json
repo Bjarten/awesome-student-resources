@@ -2105,6 +2105,18 @@
     "subsection": null
   },
   {
+    "name": "Audacity",
+    "url": "https://www.audacityteam.org",
+    "description": "Record and edit audio on Windows, macOS, and Linux",
+    "pricing": "free",
+    "tags": [
+      "FOSS",
+      "free"
+    ],
+    "section": "FOSS Picks",
+    "subsection": null
+  },
+  {
     "name": "Blender",
     "url": "https://www.blender.org",
     "description": "Model, sculpt, animate, and render 3D scenes",
