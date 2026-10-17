@@ -2105,6 +2105,18 @@
     "subsection": null
   },
   {
+    "name": "Blender",
+    "url": "https://www.blender.org",
+    "description": "Model, sculpt, animate, and render 3D scenes",
+    "pricing": "free",
+    "tags": [
+      "FOSS",
+      "free"
+    ],
+    "section": "FOSS Picks",
+    "subsection": null
+  },
+  {
     "name": "Cal.com",
     "url": "https://cal.com",
     "description": "Free, open-source, self-hostable scheduling and booking tool",
