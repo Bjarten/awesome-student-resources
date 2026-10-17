@@ -98,6 +98,11 @@ user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTM
 # page fetch returned real, current content for each (e.g. 2026 copyright and posts dated
 # October 2026 on anad.org and hslda.ca). Eight unrelated sites do not fail together; this is
 # bot blocking at the edge, so excluding rather than removing live entries.
+#
+# homeschool.ne.jp/en/: timed out (45s, after retries) in the 2026-10-17 manual run, but three
+# consecutive curl requests with the configured browser user agent returned a clean 200 in
+# 1-3s, and it did not fail in earlier runs. A host in Japan that is intermittently slow from
+# the US-based runner (same pattern as studyinkorea.go.kr above), not a dead one.
 exclude = [
   "https://www.autodesk.com/education/edu-software/overview",
   "https://freedomhomeschooling.com/",
@@ -115,6 +120,7 @@ exclude = [
   "https://www.jobbank.gc.ca/youth",
   "https://cuet.nta.nic.in/",
   "https://studyinindia.gov.in/",
+  "https://homeschool.ne.jp/en/",
   "https://anad.org/get-support/eating-disorders-helpline/",
   "https://bestdelegate.com/",
   "https://brokemillennial.com/get-the-book/",
