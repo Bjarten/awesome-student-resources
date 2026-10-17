@@ -979,6 +979,17 @@
     "subsection": "Building & Competitions"
   },
   {
+    "name": "International Olympiad in Informatics",
+    "url": "https://ioinformatics.org",
+    "description": "Follow the annual world informatics contest for secondary students",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Building & Competitions"
+  },
+  {
     "name": "Junction",
     "url": "https://hackjunction.com",
     "description": "Student-run 48-hour hackathon in Finland, among Europe's largest",
