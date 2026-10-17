@@ -946,6 +946,17 @@
     "subsection": "Building & Competitions"
   },
   {
+    "name": "Diamond Challenge",
+    "url": "https://diamondchallenge.org",
+    "description": "Pitch a business or social venture for cash prizes, ages 14 to 18",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Building & Competitions"
+  },
+  {
     "name": "Hack Club",
     "url": "https://hackclub.com",
     "description": "Nonprofit network of free coding clubs and hackathons for teens",

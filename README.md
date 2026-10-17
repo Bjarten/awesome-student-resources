@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-333-blue)
+![Resources](https://img.shields.io/badge/resources-334-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -36,7 +36,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🎓  | [Student Discounts & Free Access](#student-discounts--free-access)             |    23     |
 | 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |    20     |
 | 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |    19     |
-| 🎯  | [University & Career Prep](#university--career-prep)                           |    73     |
+| 🎯  | [University & Career Prep](#university--career-prep)                           |    74     |
 | 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |    19     |
 | 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |    20     |
 | 🏠  | [Homeschooling](#homeschooling)                                                |    18     |
@@ -195,6 +195,7 @@ Hackathons, competitions, and the tools to build something worth entering.
 <summary>Show resources</summary>
 
 - **[Devpost](https://devpost.com/)** - Student hackathon platform with thousands of student-run events ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Diamond Challenge](https://diamondchallenge.org)** - Pitch a business or social venture for cash prizes, ages 14 to 18 ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Hack Club](https://hackclub.com)** - Nonprofit network of free coding clubs and hackathons for teens ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Hack&Roll](https://hacknroll.nushackers.org/)** - NUS Hackers' free annual 24-hour student hackathon in Singapore ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[HackMTY](https://hackmty.com)** - Student-run hackathon at Tec de Monterrey for Latin America ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
