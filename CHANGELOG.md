@@ -89,6 +89,11 @@ software), but releases are still tagged so changes are easy to point to.
 
 ### Removed
 
+- Careerhelp (Vocational & Alternative Paths). The dead-link check flagged an HTTP
+  402; manually confirmed (curl over HTTP/2 and HTTP/1.1, and a separate
+  fetch) that career.help returns Vercel's `DEPLOYMENT_DISABLED` error for
+  every request, i.e. the site is offline rather than bot-blocking us.
+  Removed until a working deployment returns.
 - DA Global (formerly Diversity Abroad; University & Career Prep). The
   scheduled dead-link check flagged a connection refused error; manually
   confirmed (curl and a separate fetch from a different network, on both

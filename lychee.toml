@@ -90,6 +90,14 @@ user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTM
 #
 # cuet.nta.nic.in: timed out in the #556 run, passed in #561; curl returns 200. A slow
 # Indian government host, not a dead one, so excluded to stop it flapping the check.
+#
+# anad.org, bestdelegate.com, brokemillennial.com, embracelebanon.org, hslda.ca,
+# redenfamilia.com.co, thedeeplife.com, studentminds.org.uk: reported in the 2026-10-17 manual
+# run as "HTTP/2 protocol error" (studentminds.org.uk as a 520). curl over both HTTP/2 and
+# HTTP/1.1 from a separate network hangs until timeout for all of them, while a separate
+# page fetch returned real, current content for each (e.g. 2026 copyright and posts dated
+# October 2026 on anad.org and hslda.ca). Eight unrelated sites do not fail together; this is
+# bot blocking at the edge, so excluding rather than removing live entries.
 exclude = [
   "https://www.autodesk.com/education/edu-software/overview",
   "https://freedomhomeschooling.com/",
@@ -107,4 +115,12 @@ exclude = [
   "https://www.jobbank.gc.ca/youth",
   "https://cuet.nta.nic.in/",
   "https://studyinindia.gov.in/",
+  "https://anad.org/get-support/eating-disorders-helpline/",
+  "https://bestdelegate.com/",
+  "https://brokemillennial.com/get-the-book/",
+  "https://embracelebanon.org/what-we-do/the-national-lifeline/",
+  "https://hslda.ca/",
+  "https://redenfamilia.com.co/",
+  "https://www.thedeeplife.com/listen/",
+  "https://www.studentminds.org.uk/advice-and-info/feeling-homesick-at-university/",
 ]
