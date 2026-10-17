@@ -2850,6 +2850,17 @@
     "subsection": null
   },
   {
+    "name": "Sspai",
+    "url": "https://sspai.com",
+    "description": "Chinese-language guides to apps, productivity, and digital life",
+    "pricing": "freemium",
+    "tags": [
+      "freemium"
+    ],
+    "section": "Blogs, Newsletters & Podcasts",
+    "subsection": null
+  },
+  {
     "name": "Stuff You Missed in History Class",
     "url": "https://missedinhistory.com",
     "description": "Two-a-week deep dives into overlooked history",
