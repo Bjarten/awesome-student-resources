@@ -2237,6 +2237,18 @@
     "subsection": null
   },
   {
+    "name": "jamovi",
+    "url": "https://www.jamovi.org",
+    "description": "Run statistical analyses in a spreadsheet interface, powered by R",
+    "pricing": "free",
+    "tags": [
+      "FOSS",
+      "free"
+    ],
+    "section": "FOSS Picks",
+    "subsection": null
+  },
+  {
     "name": "Jitsi Meet",
     "url": "https://meet.jit.si",
     "description": "Free, open-source video calls with no account required",
