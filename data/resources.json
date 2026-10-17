@@ -3565,6 +3565,17 @@
     "subsection": null
   },
   {
+    "name": "freeCodeCamp Forum",
+    "url": "https://forum.freecodecamp.org",
+    "description": "Get coding help and career advice from fellow learners",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Communities",
+    "subsection": null
+  },
+  {
     "name": "I'm First",
     "url": "https://www.imfirst.org",
     "description": "Free community and guidance for first-generation college students",
