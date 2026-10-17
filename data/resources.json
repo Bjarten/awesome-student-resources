@@ -1013,6 +1013,17 @@
     "subsection": "Building & Competitions"
   },
   {
+    "name": "OverTheWire",
+    "url": "https://overthewire.org/wargames/",
+    "description": "Learn security hands-on through Linux-based wargames",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Building & Competitions"
+  },
+  {
     "name": "Regeneron ISEF",
     "url": "https://www.societyforscience.org/isef/",
     "description": "The world's largest pre-college science and engineering fair",
