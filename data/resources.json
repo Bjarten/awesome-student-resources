@@ -2486,6 +2486,18 @@
     "subsection": null
   },
   {
+    "name": "Awesome-CV",
+    "url": "https://github.com/posquit0/Awesome-CV",
+    "description": "LaTeX template for polished resumes, CVs, and cover letters",
+    "pricing": "free",
+    "tags": [
+      "FOSS",
+      "free"
+    ],
+    "section": "Helpful Repositories",
+    "subsection": null
+  },
+  {
     "name": "awesome-digital-humanities",
     "url": "https://github.com/dh-tech/awesome-digital-humanities",
     "description": "Curated tools and resources for computational and quantitative humanities research",
