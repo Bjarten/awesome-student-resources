@@ -2141,6 +2141,18 @@
     "subsection": null
   },
   {
+    "name": "calibre",
+    "url": "https://calibre-ebook.com",
+    "description": "Manage, convert, and read e-books in one library",
+    "pricing": "free",
+    "tags": [
+      "FOSS",
+      "free"
+    ],
+    "section": "FOSS Picks",
+    "subsection": null
+  },
+  {
     "name": "Excalidraw",
     "url": "https://excalidraw.com",
     "description": "Free, open-source virtual whiteboard for sketching hand-drawn diagrams",
