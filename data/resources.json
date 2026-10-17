@@ -2333,6 +2333,18 @@
     "subsection": null
   },
   {
+    "name": "Logseq",
+    "url": "https://logseq.com",
+    "description": "Build a linked notes graph from outlines, stored locally",
+    "pricing": "free",
+    "tags": [
+      "FOSS",
+      "free"
+    ],
+    "section": "FOSS Picks",
+    "subsection": null
+  },
+  {
     "name": "OBS Studio",
     "url": "https://obsproject.com",
     "description": "Free, open screen recording and live streaming",
