@@ -108,8 +108,8 @@ Legitimate, fee-free places to find money for school.
 - **[International Scholarships](https://www.internationalscholarships.com)** - Free searchable database of global scholarships for international students ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[LPDP](https://lpdp.kemenkeu.go.id/en/)** - Indonesian government scholarships for master's and doctoral study ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Mandela Rhodes Scholarship](https://www.mandelarhodes.org/scholarship/apply/)** - Fully funded postgraduate scholarship and leadership program for African students in South Africa ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[Mastercard Foundation Scholars Program](https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/)** - Free, no-fee scholarships and mentorship for African students ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[MENA Scholar](https://menascholar.com)** - Free directory of study, language, and exchange programs across the Middle East and North Africa ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Mastercard Foundation Scholars Program](https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/)** - Full scholarships and mentorship for African students ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[MENA Scholar](https://menascholar.com)** - Free directory of study and language programs across the Middle East and North Africa ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Scholars4Dev](https://www.scholars4dev.com)** - Free scholarship search engine for students across Asia, Africa, and other developing regions ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Scholarships.com](https://www.scholarships.com)** - Free, vetted search across millions of scholarships and grants ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Society of Women Engineers Scholarships](https://swe.org/apply-for-a-swe-scholarship/)** - Free-to-apply scholarships for women pursuing engineering degrees ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
@@ -512,7 +512,7 @@ Free, reputable support for stress, burnout, and everything school doesn't teach
 <summary>Show resources</summary>
 
 - **[7 Cups](https://www.7cups.com)** - Free, anonymous chat with trained volunteer listeners, 24/7 ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
-- **[ADDitude](https://www.additudemag.com)** - Strategies and community support for ADHD and neurodivergent students ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
+- **[ADDitude](https://www.additudemag.com)** - Strategies, webinars, and guidance for ADHD and neurodivergent students ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[ANAD](https://anad.org/get-support/eating-disorders-helpline/)** - Free peer support and treatment referrals for eating disorders ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Befrienders Worldwide](https://befrienders.org)** - Free directory of confidential emotional-support helplines worldwide ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Beyond Blue](https://www.beyondblue.org.au)** - Australia's free 24/7 mental health support and counselling service ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
@@ -522,7 +522,7 @@ Free, reputable support for stress, burnout, and everything school doesn't teach
 - **[Crisis Text Line](https://www.crisistextline.org)** - Free, 24/7 text-based crisis support with trained counselors ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[CVV](https://www.cvv.org.br)** - Brazilian volunteer emotional support line, call 188 any hour ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Embrace Lebanon](https://embracelebanon.org/what-we-do/the-national-lifeline/)** - Free 24/7 emotional support and suicide-prevention lifeline for Lebanon ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[Headspace](https://www.headspace.com)** - Guided meditation and sleep, free for teens and students ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
+- **[Headspace](https://www.headspace.com)** - Guided meditation and sleep, with a discounted student plan ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[Into the Light Indonesia](https://www.intothelightid.org/)** - Indonesian youth community for suicide prevention and mental health education ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[JED Foundation](https://jedfoundation.org)** - Nonprofit resources on managing finals-week and exam-period burnout ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[NAMI HelpLine](https://www.nami.org/nami-helpline/)** - Free, nationwide peer support and resource referrals for mental health conditions ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).

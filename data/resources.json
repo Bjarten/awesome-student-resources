@@ -387,7 +387,7 @@
   {
     "name": "Mastercard Foundation Scholars Program",
     "url": "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/",
-    "description": "Free, no-fee scholarships and mentorship for African students",
+    "description": "Full scholarships and mentorship for African students",
     "pricing": "free",
     "tags": [
       "free"
@@ -398,7 +398,7 @@
   {
     "name": "MENA Scholar",
     "url": "https://menascholar.com",
-    "description": "Free directory of study, language, and exchange programs across the Middle East and North Africa",
+    "description": "Free directory of study and language programs across the Middle East and North Africa",
     "pricing": "free",
     "tags": [
       "free"
@@ -3109,7 +3109,7 @@
   {
     "name": "ADDitude",
     "url": "https://www.additudemag.com",
-    "description": "Strategies and community support for ADHD and neurodivergent students",
+    "description": "Strategies, webinars, and guidance for ADHD and neurodivergent students",
     "pricing": "freemium",
     "tags": [
       "freemium"
@@ -3219,10 +3219,10 @@
   {
     "name": "Headspace",
     "url": "https://www.headspace.com",
-    "description": "Guided meditation and sleep, free for teens and students",
-    "pricing": "freemium",
+    "description": "Guided meditation and sleep, with a discounted student plan",
+    "pricing": "paid",
     "tags": [
-      "freemium"
+      "paid"
     ],
     "section": "Mental Health & Wellbeing",
     "subsection": null
