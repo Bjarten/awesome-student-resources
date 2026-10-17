@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-340-blue)
+![Resources](https://img.shields.io/badge/resources-341-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 |     | Section                                                                        | Resources |
 | :-: | ------------------------------------------------------------------------------ | :-------: |
 | 🎓  | [Student Discounts & Free Access](#student-discounts--free-access)             |    23     |
-| 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |    20     |
+| 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |    21     |
 | 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |    19     |
 | 🎯  | [University & Career Prep](#university--career-prep)                           |    74     |
 | 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |    19     |
@@ -99,6 +99,7 @@ Legitimate, fee-free places to find money for school.
 - **[Australia Awards](https://www.dfat.gov.au/people-to-people/australia-awards/pages/australia-awards.aspx)** - Australian government scholarships for study from the Pacific and beyond ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Bold.org](https://bold.org)** - Free, no-fee scholarships matched to your profile daily ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Buddy4Study](https://www.buddy4study.com)** - India's largest free scholarship search platform for students ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[DAFI Scholarship Programme](https://www.unhcr.org/uk/what-we-do/build-better-futures/education/tertiary-education/dafi-tertiary-scholarship-programme)** - UNHCR-run undergraduate scholarships for qualified refugee students ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Erasmus Mundus Joint Masters](https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters)** - EU-funded full scholarships for joint master's programmes worldwide ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Fastweb](https://www.fastweb.com)** - Free scholarship search vetted against 1,000+ college partners ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Federal Student Aid](https://studentaid.gov)** - The official FAFSA portal for US grants, work-study, and loans ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
