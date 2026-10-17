@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-341-blue)
+![Resources](https://img.shields.io/badge/resources-342-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -35,7 +35,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | :-: | ------------------------------------------------------------------------------ | :-------: |
 | 🎓  | [Student Discounts & Free Access](#student-discounts--free-access)             |    23     |
 | 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |    21     |
-| 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |    19     |
+| 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |    20     |
 | 🎯  | [University & Career Prep](#university--career-prep)                           |    74     |
 | 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |    19     |
 | 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |    20     |
@@ -134,6 +134,7 @@ Budgeting, credit, and banking basics for the money you already have.
 - **[Credit Karma](https://www.creditkarma.com)** - Free credit score monitoring and personalized financial guidance ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Egyptian Banking Institute Financial Literacy Hub](https://ebi.gov.eg/financial-literacy-hub/)** - Take self-paced Arabic money courses from Egypt's central bank institute ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Financial Consumer Agency of Canada](https://www.canada.ca/en/financial-consumer-agency.html)** - The Canadian government's official financial literacy and money-management hub ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[HowTheMarketWorks](https://www.howthemarketworks.com)** - Practice investing with virtual money in a free stock market game ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Investopedia](https://www.investopedia.com)** - Free glossary, articles, and guides covering every personal-finance and investing basic ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[IRS Publication 970](https://www.irs.gov/publications/p970)** - IRS guide to education credits, deductions, and student loan interest ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Khan Academy Personal Finance](https://www.khanacademy.org/college-careers-more/personal-finance)** - Free course covering budgeting, credit, and investing basics ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
