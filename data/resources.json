@@ -1168,6 +1168,17 @@
     "subsection": "Gap Year & Study Abroad"
   },
   {
+    "name": "Cultural Care Au Pair",
+    "url": "https://culturalcare.com",
+    "description": "Live with a US host family on a J-1 au pair program",
+    "pricing": "paid",
+    "tags": [
+      "paid"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Gap Year & Study Abroad"
+  },
+  {
     "name": "DAAD",
     "url": "https://www.daad.de/en/",
     "description": "German academic exchange service listing study and scholarship programs",
