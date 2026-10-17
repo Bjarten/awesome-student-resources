@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-338-blue)
+![Resources](https://img.shields.io/badge/resources-339-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -44,7 +44,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 📦  | [Helpful Repositories](#helpful-repositories)                                  |    15     |
 | 📖  | [Books We Trust](#books-we-trust)                                              |    19     |
 | 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    17     |
-| 💡  | [Guides & How-Tos](#guides--how-tos)                                           |    16     |
+| 💡  | [Guides & How-Tos](#guides--how-tos)                                           |    17     |
 | 🧘  | [Mental Health & Wellbeing](#mental-health--wellbeing)                         |    23     |
 | 👥  | [Communities](#communities)                                                    |    22     |
 
@@ -508,6 +508,7 @@ Meta-skills: how to study, remember, and focus.
 - **[Purdue OWL](https://owl.purdue.edu/)** - Free guides to academic writing, research papers, and APA or MLA citation ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Retrieval Practice](https://www.retrievalpractice.org)** - Pooja Agarwal's free guides on retrieval practice, spacing, and interleaving ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Student Guide to Generative AI](https://cep.barnard.edu/student-guide-generative-ai)** - Barnard College's free guide to using AI tools without compromising academic integrity ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Student Guide to Group Work](https://learningcommons.yorku.ca/groupwork/)** - Plan roles, meetings, and communication for group projects ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[StudyGS](https://www.studygs.net)** - Free study-skill guides on note-taking, memory, and test prep ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[The Learning Scientists](https://www.learningscientists.org)** - Cognitive scientists' blog and posters on evidence-based study strategies ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Zettelkasten.de](https://zettelkasten.de)** - In-depth guide to the Zettelkasten note-taking and thinking method ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
