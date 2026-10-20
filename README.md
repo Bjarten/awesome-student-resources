@@ -42,7 +42,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🏠  | [Homeschooling](#homeschooling)                                                |    18     |
 | 🔓  | [FOSS Picks](#foss-picks)                                                      |    31     |
 | 📦  | [Helpful Repositories](#helpful-repositories)                                  |    15     |
-| 📖  | [Books We Trust](#books-we-trust)                                              |    19     |
+| 📖  | [Books We Trust](#books-we-trust)                                              |    20     |
 | 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    18     |
 | 💡  | [Guides & How-Tos](#guides--how-tos)                                           |    17     |
 | 🧘  | [Mental Health & Wellbeing](#mental-health--wellbeing)                         |    23     |
@@ -485,6 +485,7 @@ Study skill and mindset books worth your time.
 - **[Make It Stick](https://www.hup.harvard.edu/books/9780674729018)** - The science of durable, effective learning ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[Mindset](https://www.mindsetonline.com)** - Carol Dweck's companion site on growth versus fixed mindsets ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[Peak: Secrets from the New Science of Expertise](https://peakthebook.com/)** - Learn deliberate practice for developing expertise ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
+- **[Steal Like an Artist](https://austinkleon.com/steal/)** - Get 10 practical rules for making creative work ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[Talk Like TED](https://www.panmacmillan.com/authors/carmine-gallo/talk-like-ted/9781529068658)** - Carmine Gallo's nine public-speaking techniques drawn from top TED talks ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[The 7 Habits of Highly Effective People](https://www.franklincovey.com/books/the-7-habits-of-highly-effective-people/)** - Build habits for effective goals and priorities ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[The Art of Learning](https://www.simonandschuster.com/books/The-Art-of-Learning/Josh-Waitzkin/9780743277464)** - Josh Waitzkin on the mental principles behind mastering any skill ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
