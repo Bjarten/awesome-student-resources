@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-346-blue)
+![Resources](https://img.shields.io/badge/resources-347-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -43,7 +43,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🔓  | [FOSS Picks](#foss-picks)                                                      |    30     |
 | 📦  | [Helpful Repositories](#helpful-repositories)                                  |    15     |
 | 📖  | [Books We Trust](#books-we-trust)                                              |    19     |
-| 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    18     |
+| 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    19     |
 | 💡  | [Guides & How-Tos](#guides--how-tos)                                           |    17     |
 | 🧘  | [Mental Health & Wellbeing](#mental-health--wellbeing)                         |    23     |
 | 👥  | [Communities](#communities)                                                    |    23     |
@@ -456,6 +456,7 @@ Written and audio deep dives on how to learn, focus, and work better.
 - **[Sspai](https://sspai.com)** - Chinese-language guides to apps, productivity, and digital life ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[Stuff You Missed in History Class](https://missedinhistory.com)** - Two-a-week deep dives into overlooked history ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[TED en Español](https://www.ted.com/podcasts/ted-en-espanol)** - Weekly Spanish-language podcast of TED talks on ideas worth spreading ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[The College Investor](https://thecollegeinvestor.com)** - Learn student loans, saving and investing as a young adult ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[The Learning Scientists Podcast](https://www.learningscientists.org/learning-scientists-podcast)** - Evidence-based study techniques explained by cognitive scientists ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Zeitblüten](https://www.zeitblueten.com)** - German-language blog on time management, focus, and self-organization ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 
