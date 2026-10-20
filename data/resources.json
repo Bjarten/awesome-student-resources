@@ -2433,6 +2433,18 @@
     "subsection": null
   },
   {
+    "name": "NVDA",
+    "url": "https://www.nvaccess.org",
+    "description": "Read Windows screens aloud for blind and low-vision users",
+    "pricing": "free",
+    "tags": [
+      "FOSS",
+      "free"
+    ],
+    "section": "FOSS Picks",
+    "subsection": null
+  },
+  {
     "name": "OBS Studio",
     "url": "https://obsproject.com",
     "description": "Free, open screen recording and live streaming",
