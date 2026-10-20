@@ -286,6 +286,17 @@
     "subsection": null
   },
   {
+    "name": "Bold.org Art Scholarships",
+    "url": "https://bold.org/scholarships/by-major/art-scholarships/",
+    "description": "Find and apply to art, design and music scholarships",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Scholarships & Financial Aid",
+    "subsection": null
+  },
+  {
     "name": "Buddy4Study",
     "url": "https://www.buddy4study.com",
     "description": "India's largest free scholarship search platform for students",
@@ -298,7 +309,7 @@
   },
   {
     "name": "DAFI Scholarship Programme",
-    "url": "https://www.unhcr.org/uk/what-we-do/build-better-futures/education/tertiary-education/dafi-tertiary-scholarship-programme",
+    "url": "https://www.unhcr.org/what-we-do/build-better-futures/education/higher-education-and-skills/dafi-tertiary-scholarship-0",
     "description": "UNHCR-run undergraduate scholarships for qualified refugee students",
     "pricing": "free",
     "tags": [
@@ -487,6 +498,17 @@
     "name": "The Scholarship Hub",
     "url": "https://www.thescholarshiphub.org.uk",
     "description": "No-fee search across UK scholarships, bursaries, and grants",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Scholarships & Financial Aid",
+    "subsection": null
+  },
+  {
+    "name": "Wells Fargo Stacey Milbern Scholarship",
+    "url": "https://scholarshipamerica.org/scholarship/pwdscholarship/",
+    "description": "Apply for renewable awards for US students with disabilities",
     "pricing": "free",
     "tags": [
       "free"
@@ -740,6 +762,17 @@
     "name": "AHEAD",
     "url": "https://www.ahead.org",
     "description": "Resources on requesting disability accommodations and services at university",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Applications & Resumes"
+  },
+  {
+    "name": "Bayt.com Blog",
+    "url": "https://www.bayt.com/en/blog/",
+    "description": "Read CV, interview and job-search tips for the Middle East",
     "pricing": "free",
     "tags": [
       "free"
@@ -1567,7 +1600,7 @@
   {
     "name": "Wyzant",
     "url": "https://www.wyzant.com",
-    "description": "Tutor students one-on-one and set your own hourly rate",
+    "description": "Tutor one-on-one, set your rate, keep 75% of it",
     "pricing": "free",
     "tags": [
       "free"
@@ -2276,6 +2309,18 @@
     "subsection": null
   },
   {
+    "name": "Firefox",
+    "url": "https://www.firefox.com/",
+    "description": "Browse the web with Mozilla's open-source browser",
+    "pricing": "free",
+    "tags": [
+      "FOSS",
+      "free"
+    ],
+    "section": "FOSS Picks",
+    "subsection": null
+  },
+  {
     "name": "Freeplane",
     "url": "https://www.freeplane.org",
     "description": "Free, open mind-mapping tool with AI integration",
@@ -2444,6 +2489,18 @@
     "subsection": null
   },
   {
+    "name": "MuseScore Studio",
+    "url": "https://musescore.org",
+    "description": "Write, play back and print sheet music",
+    "pricing": "free",
+    "tags": [
+      "FOSS",
+      "free"
+    ],
+    "section": "FOSS Picks",
+    "subsection": null
+  },
+  {
     "name": "OBS Studio",
     "url": "https://obsproject.com",
     "description": "Free, open screen recording and live streaming",
@@ -2459,6 +2516,18 @@
     "name": "Okular",
     "url": "https://okular.kde.org",
     "description": "Free, open universal document viewer with annotations",
+    "pricing": "free",
+    "tags": [
+      "FOSS",
+      "free"
+    ],
+    "section": "FOSS Picks",
+    "subsection": null
+  },
+  {
+    "name": "SageMath",
+    "url": "https://www.sagemath.org",
+    "description": "Do algebra, calculus and number theory in open math software",
     "pricing": "free",
     "tags": [
       "FOSS",
@@ -2519,6 +2588,18 @@
     "name": "Vikunja",
     "url": "https://vikunja.io",
     "description": "Free, open task and project manager",
+    "pricing": "free",
+    "tags": [
+      "FOSS",
+      "free"
+    ],
+    "section": "FOSS Picks",
+    "subsection": null
+  },
+  {
+    "name": "VSCodium",
+    "url": "https://vscodium.com",
+    "description": "Edit code in a telemetry-free build of VS Code",
     "pricing": "free",
     "tags": [
       "FOSS",
@@ -2729,6 +2810,17 @@
     "subsection": null
   },
   {
+    "name": "Ask a Manager",
+    "url": "https://www.askamanager.org",
+    "description": "Get plain-spoken answers to real workplace and career questions",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Blogs, Newsletters & Podcasts",
+    "subsection": null
+  },
+  {
     "name": "Breaking Math",
     "url": "https://www.breakingmath.io",
     "description": "Weekly conversations making math concepts click",
@@ -2905,6 +2997,17 @@
     "subsection": null
   },
   {
+    "name": "The College Investor",
+    "url": "https://thecollegeinvestor.com",
+    "description": "Learn student loans, saving and investing as a young adult",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Blogs, Newsletters & Podcasts",
+    "subsection": null
+  },
+  {
     "name": "The Learning Scientists Podcast",
     "url": "https://www.learningscientists.org/learning-scientists-podcast",
     "description": "Evidence-based study techniques explained by cognitive scientists",
@@ -3026,6 +3129,17 @@
     "subsection": null
   },
   {
+    "name": "Mind Over Mood",
+    "url": "https://www.guilford.com/books/Mind-Over-Mood/Greenberger-Padesky/9781462520428",
+    "description": "Manage anxiety and low mood with CBT worksheets",
+    "pricing": "paid",
+    "tags": [
+      "paid"
+    ],
+    "section": "Books We Trust",
+    "subsection": null
+  },
+  {
     "name": "Mindset",
     "url": "https://www.mindsetonline.com",
     "description": "Carol Dweck's companion site on growth versus fixed mindsets",
@@ -3040,6 +3154,17 @@
     "name": "Peak: Secrets from the New Science of Expertise",
     "url": "https://peakthebook.com/",
     "description": "Learn deliberate practice for developing expertise",
+    "pricing": "paid",
+    "tags": [
+      "paid"
+    ],
+    "section": "Books We Trust",
+    "subsection": null
+  },
+  {
+    "name": "Steal Like an Artist",
+    "url": "https://austinkleon.com/steal/",
+    "description": "Get 10 practical rules for making creative work",
     "pricing": "paid",
     "tags": [
       "paid"
@@ -3180,9 +3305,31 @@
     "subsection": null
   },
   {
+    "name": "Digital Distractions",
+    "url": "https://www.niu.edu/academic-support/student-guides/digital-distractions.shtml",
+    "description": "Cut phone and screen distractions while you study",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Guides & How-Tos",
+    "subsection": null
+  },
+  {
     "name": "Feynman Technique",
     "url": "https://fs.blog/feynman-technique/",
     "description": "Learn any topic by explaining it in simple terms",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Guides & How-Tos",
+    "subsection": null
+  },
+  {
+    "name": "How to Email a Professor",
+    "url": "https://dennislearningcenter.osu.edu/how-to-email-a-professor/",
+    "description": "Write clear, polite emails to professors",
     "pricing": "free",
     "tags": [
       "free"
@@ -3499,6 +3646,17 @@
     "subsection": null
   },
   {
+    "name": "NHS Sleep Advice",
+    "url": "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/",
+    "description": "Build sleep habits and a bedtime routine that help you rest",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Mental Health & Wellbeing",
+    "subsection": null
+  },
+  {
     "name": "Nightline Europe",
     "url": "https://nightlines.eu/europe/",
     "description": "Network of student-run anonymous listening services across Europe",
@@ -3568,6 +3726,17 @@
     "name": "The Trevor Project",
     "url": "https://www.thetrevorproject.org",
     "description": "Free, confidential crisis support and resources for LGBTQ+ young people",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Mental Health & Wellbeing",
+    "subsection": null
+  },
+  {
+    "name": "UCLA Mindful",
+    "url": "https://www.uclahealth.org/uclamindful/free-guided-meditations",
+    "description": "Follow free guided meditations from UCLA's mindfulness center",
     "pricing": "free",
     "tags": [
       "free"
@@ -3810,6 +3979,17 @@
     "name": "StudyStream",
     "url": "https://www.studystream.live",
     "description": "24/7 video study rooms and a Discord community to stay accountable",
+    "pricing": "freemium",
+    "tags": [
+      "freemium"
+    ],
+    "section": "Communities",
+    "subsection": null
+  },
+  {
+    "name": "Tandem",
+    "url": "https://tandem.net",
+    "description": "Practise a language with native speakers who learn yours",
     "pricing": "freemium",
     "tags": [
       "freemium"
