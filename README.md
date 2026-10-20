@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-346-blue)
+![Resources](https://img.shields.io/badge/resources-347-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -36,7 +36,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🎓  | [Student Discounts & Free Access](#student-discounts--free-access)             |    23     |
 | 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |    21     |
 | 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |    20     |
-| 🎯  | [University & Career Prep](#university--career-prep)                           |    78     |
+| 🎯  | [University & Career Prep](#university--career-prep)                           |    79     |
 | 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |    18     |
 | 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |    20     |
 | 🏠  | [Homeschooling](#homeschooling)                                                |    18     |
@@ -166,6 +166,7 @@ What comes after exams: applications, resumes, interviews, and time away from th
 - **[AAUW Work Smart](https://www.aauw.org/resources/programs/salary-negotiation/)** - Free self-paced online training on negotiating salary and job offers ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Aced](https://www.tryexponent.com/practice)** - Free peer and AI mock interviews for tech and PM roles, formerly Exponent ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[AHEAD](https://www.ahead.org)** - Resources on requesting disability accommodations and services at university ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Bayt.com Blog](https://www.bayt.com/en/blog/)** - Read CV, interview and job-search tips for the Middle East ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[CollegeVine](https://www.collegevine.com)** - Free peer and expert reviews for your college application essays ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[Common App](https://www.commonapp.org)** - The official application portal used by 1,000+ colleges ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[CUET](https://cuet.nta.nic.in)** - India's official centralized entrance test for university admissions ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
