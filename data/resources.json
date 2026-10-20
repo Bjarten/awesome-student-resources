@@ -2481,6 +2481,18 @@
     "subsection": null
   },
   {
+    "name": "SageMath",
+    "url": "https://www.sagemath.org",
+    "description": "Do algebra, calculus and number theory in open math software",
+    "pricing": "free",
+    "tags": [
+      "FOSS",
+      "free"
+    ],
+    "section": "FOSS Picks",
+    "subsection": null
+  },
+  {
     "name": "Stirling PDF",
     "url": "https://stirling.com/",
     "description": "Free, open-source browser tools for merging, splitting, and editing PDFs",
