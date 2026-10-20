@@ -287,7 +287,7 @@
   },
   {
     "name": "DAFI Scholarship Programme",
-    "url": "https://www.unhcr.org/uk/what-we-do/build-better-futures/education/tertiary-education/dafi-tertiary-scholarship-programme",
+    "url": "https://www.unhcr.org/what-we-do/build-better-futures/education/higher-education-and-skills/dafi-tertiary-scholarship-0",
     "description": "UNHCR-run undergraduate scholarships for qualified refugee students",
     "pricing": "free",
     "tags": [
@@ -1556,7 +1556,7 @@
   {
     "name": "Wyzant",
     "url": "https://www.wyzant.com",
-    "description": "Tutor students one-on-one and set your own hourly rate",
+    "description": "Tutor one-on-one, set your rate, keep 75% of it",
     "pricing": "free",
     "tags": [
       "free"
@@ -2265,6 +2265,18 @@
     "subsection": null
   },
   {
+    "name": "Firefox",
+    "url": "https://www.firefox.com/",
+    "description": "Browse the web with Mozilla's open-source browser",
+    "pricing": "free",
+    "tags": [
+      "FOSS",
+      "free"
+    ],
+    "section": "FOSS Picks",
+    "subsection": null
+  },
+  {
     "name": "Freeplane",
     "url": "https://www.freeplane.org",
     "description": "Free, open mind-mapping tool with AI integration",
@@ -2433,9 +2445,9 @@
     "subsection": null
   },
   {
-    "name": "NVDA",
-    "url": "https://www.nvaccess.org",
-    "description": "Read Windows screens aloud for blind and low-vision users",
+    "name": "MuseScore Studio",
+    "url": "https://musescore.org",
+    "description": "Write, play back and print sheet music",
     "pricing": "free",
     "tags": [
       "FOSS",
@@ -2460,6 +2472,18 @@
     "name": "Okular",
     "url": "https://okular.kde.org",
     "description": "Free, open universal document viewer with annotations",
+    "pricing": "free",
+    "tags": [
+      "FOSS",
+      "free"
+    ],
+    "section": "FOSS Picks",
+    "subsection": null
+  },
+  {
+    "name": "SageMath",
+    "url": "https://www.sagemath.org",
+    "description": "Do algebra, calculus and number theory in open math software",
     "pricing": "free",
     "tags": [
       "FOSS",
@@ -2520,6 +2544,18 @@
     "name": "Vikunja",
     "url": "https://vikunja.io",
     "description": "Free, open task and project manager",
+    "pricing": "free",
+    "tags": [
+      "FOSS",
+      "free"
+    ],
+    "section": "FOSS Picks",
+    "subsection": null
+  },
+  {
+    "name": "VSCodium",
+    "url": "https://vscodium.com",
+    "description": "Edit code in a telemetry-free build of VS Code",
     "pricing": "free",
     "tags": [
       "FOSS",

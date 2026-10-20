@@ -99,7 +99,7 @@ Legitimate, fee-free places to find money for school.
 - **[Australia Awards](https://www.dfat.gov.au/people-to-people/australia-awards/pages/australia-awards.aspx)** - Australian government scholarships for study from the Pacific and beyond ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Bold.org](https://bold.org)** - Free, no-fee scholarships matched to your profile daily ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Buddy4Study](https://www.buddy4study.com)** - India's largest free scholarship search platform for students ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[DAFI Scholarship Programme](https://www.unhcr.org/uk/what-we-do/build-better-futures/education/tertiary-education/dafi-tertiary-scholarship-programme)** - UNHCR-run undergraduate scholarships for qualified refugee students ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[DAFI Scholarship Programme](https://www.unhcr.org/what-we-do/build-better-futures/education/higher-education-and-skills/dafi-tertiary-scholarship-0)** - UNHCR-run undergraduate scholarships for qualified refugee students ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Erasmus Mundus Joint Masters](https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters)** - EU-funded full scholarships for joint master's programmes worldwide ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Fastweb](https://www.fastweb.com)** - Free scholarship search vetted against 1,000+ college partners ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Federal Student Aid](https://studentaid.gov)** - The official FAFSA portal for US grants, work-study, and loans ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
@@ -266,7 +266,7 @@ Hackathons, competitions, and the tools to build something worth entering.
 - **[Upwork](https://www.upwork.com)** - Global freelance marketplace for remote work you can do from anywhere ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[Wantedly](https://www.wantedly.com/)** - Find Japanese startup jobs and internships through a free profile ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[WayUp](https://www.wayup.com)** - Free job board for internships and part-time work aimed at students ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[Wyzant](https://www.wyzant.com)** - Tutor students one-on-one and set your own hourly rate ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Wyzant](https://www.wyzant.com)** - Tutor one-on-one, set your rate, keep 75% of it ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 
 </details>
 
@@ -378,6 +378,7 @@ Fully free and open-source tools worth installing.
 - **[calibre](https://calibre-ebook.com)** - Manage, convert, and read e-books in one library ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Excalidraw](https://excalidraw.com)** - Free, open-source virtual whiteboard for sketching hand-drawn diagrams ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Firefly III](https://www.firefly-iii.org)** - Free, open, self-hosted personal finance and budgeting manager ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Firefox](https://www.firefox.com/)** - Browse the web with Mozilla's open-source browser ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Freeplane](https://www.freeplane.org)** - Free, open mind-mapping tool with AI integration ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[GIMP](https://www.gimp.org)** - Free, open image editor ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Habitica](https://habitica.com)** - Free, open-source habit and task tracker with RPG-style gamification ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
@@ -392,14 +393,16 @@ Fully free and open-source tools worth installing.
 - **[LanguageTool](https://languagetool.org)** - Open-source grammar, style, and spell checker for 30+ languages ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[LibreOffice](https://www.libreoffice.org)** - Free, open office suite: documents, spreadsheets, slides ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Logseq](https://logseq.com)** - Build a linked notes graph from outlines, stored locally ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[NVDA](https://www.nvaccess.org)** - Read Windows screens aloud for blind and low-vision users ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[MuseScore Studio](https://musescore.org)** - Write, play back and print sheet music ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[OBS Studio](https://obsproject.com)** - Free, open screen recording and live streaming ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Okular](https://okular.kde.org)** - Free, open universal document viewer with annotations ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[SageMath](https://www.sagemath.org)** - Do algebra, calculus and number theory in open math software ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Stirling PDF](https://stirling.com/)** - Free, open-source browser tools for merging, splitting, and editing PDFs ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[StudyMap](https://github.com/StudentSuite/StudyMap)** - Crowdsourced map of student-important places like exam centres and libraries ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[TeXstudio](https://www.texstudio.org)** - Free, open LaTeX editor with syntax highlighting and an integrated viewer ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Thunderbird](https://www.thunderbird.net/)** - Free, open-source email client with calendar and contacts built in ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Vikunja](https://vikunja.io)** - Free, open task and project manager ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[VSCodium](https://vscodium.com)** - Edit code in a telemetry-free build of VS Code ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[YYLO](https://github.com/yylo-dev/yylo)** - Orchestrate AI coding agents from the terminal with repeatable workflows ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Zotero](https://www.zotero.org)** - Free, open reference and citation manager ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 
