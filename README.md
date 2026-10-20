@@ -40,13 +40,13 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |    18     |
 | 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |    20     |
 | 🏠  | [Homeschooling](#homeschooling)                                                |    18     |
-| 🔓  | [FOSS Picks](#foss-picks)                                                      |    30     |
+| 🔓  | [FOSS Picks](#foss-picks)                                                      |    31     |
 | 📦  | [Helpful Repositories](#helpful-repositories)                                  |    15     |
-| 📖  | [Books We Trust](#books-we-trust)                                              |    19     |
-| 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    18     |
+| 📖  | [Books We Trust](#books-we-trust)                                              |    20     |
+| 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    19     |
 | 💡  | [Guides & How-Tos](#guides--how-tos)                                           |    17     |
-| 🧘  | [Mental Health & Wellbeing](#mental-health--wellbeing)                         |    23     |
-| 👥  | [Communities](#communities)                                                    |    24     |
+| 🧘  | [Mental Health & Wellbeing](#mental-health--wellbeing)                         |    24     |
+| 👥  | [Communities](#communities)                                                    |    23     |
 
 [More from StudentSuite](#more-from-studentsuite) &middot; [Sister lists](#sister-lists) &middot; [A Note on Links](#a-note-on-links) &middot; [Quality Standards](#quality-standards) &middot; [Contributing](#contributing) &middot; [Contributors](#contributors) &middot; [License](#license)
 
@@ -99,7 +99,7 @@ Legitimate, fee-free places to find money for school.
 - **[Australia Awards](https://www.dfat.gov.au/people-to-people/australia-awards/pages/australia-awards.aspx)** - Australian government scholarships for study from the Pacific and beyond ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Bold.org](https://bold.org)** - Free, no-fee scholarships matched to your profile daily ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Buddy4Study](https://www.buddy4study.com)** - India's largest free scholarship search platform for students ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[DAFI Scholarship Programme](https://www.unhcr.org/uk/what-we-do/build-better-futures/education/tertiary-education/dafi-tertiary-scholarship-programme)** - UNHCR-run undergraduate scholarships for qualified refugee students ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[DAFI Scholarship Programme](https://www.unhcr.org/what-we-do/build-better-futures/education/higher-education-and-skills/dafi-tertiary-scholarship-0)** - UNHCR-run undergraduate scholarships for qualified refugee students ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Erasmus Mundus Joint Masters](https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters)** - EU-funded full scholarships for joint master's programmes worldwide ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Fastweb](https://www.fastweb.com)** - Free scholarship search vetted against 1,000+ college partners ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Federal Student Aid](https://studentaid.gov)** - The official FAFSA portal for US grants, work-study, and loans ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
@@ -266,7 +266,7 @@ Hackathons, competitions, and the tools to build something worth entering.
 - **[Upwork](https://www.upwork.com)** - Global freelance marketplace for remote work you can do from anywhere ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[Wantedly](https://www.wantedly.com/)** - Find Japanese startup jobs and internships through a free profile ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[WayUp](https://www.wayup.com)** - Free job board for internships and part-time work aimed at students ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[Wyzant](https://www.wyzant.com)** - Tutor students one-on-one and set your own hourly rate ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Wyzant](https://www.wyzant.com)** - Tutor one-on-one, set your rate, keep 75% of it ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 
 </details>
 
@@ -378,6 +378,7 @@ Fully free and open-source tools worth installing.
 - **[calibre](https://calibre-ebook.com)** - Manage, convert, and read e-books in one library ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Excalidraw](https://excalidraw.com)** - Free, open-source virtual whiteboard for sketching hand-drawn diagrams ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Firefly III](https://www.firefly-iii.org)** - Free, open, self-hosted personal finance and budgeting manager ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Firefox](https://www.firefox.com/)** - Browse the web with Mozilla's open-source browser ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Freeplane](https://www.freeplane.org)** - Free, open mind-mapping tool with AI integration ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[GIMP](https://www.gimp.org)** - Free, open image editor ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Habitica](https://habitica.com)** - Free, open-source habit and task tracker with RPG-style gamification ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
@@ -392,13 +393,16 @@ Fully free and open-source tools worth installing.
 - **[LanguageTool](https://languagetool.org)** - Open-source grammar, style, and spell checker for 30+ languages ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[LibreOffice](https://www.libreoffice.org)** - Free, open office suite: documents, spreadsheets, slides ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Logseq](https://logseq.com)** - Build a linked notes graph from outlines, stored locally ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[MuseScore Studio](https://musescore.org)** - Write, play back and print sheet music ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[OBS Studio](https://obsproject.com)** - Free, open screen recording and live streaming ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Okular](https://okular.kde.org)** - Free, open universal document viewer with annotations ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[SageMath](https://www.sagemath.org)** - Do algebra, calculus and number theory in open math software ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Stirling PDF](https://stirling.com/)** - Free, open-source browser tools for merging, splitting, and editing PDFs ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[StudyMap](https://github.com/StudentSuite/StudyMap)** - Crowdsourced map of student-important places like exam centres and libraries ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[TeXstudio](https://www.texstudio.org)** - Free, open LaTeX editor with syntax highlighting and an integrated viewer ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Thunderbird](https://www.thunderbird.net/)** - Free, open-source email client with calendar and contacts built in ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Vikunja](https://vikunja.io)** - Free, open task and project manager ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[VSCodium](https://vscodium.com)** - Edit code in a telemetry-free build of VS Code ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[YYLO](https://github.com/yylo-dev/yylo)** - Orchestrate AI coding agents from the terminal with repeatable workflows ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Zotero](https://www.zotero.org)** - Free, open reference and citation manager ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 
@@ -440,6 +444,7 @@ Written and audio deep dives on how to learn, focus, and work better.
 <details open>
 <summary>Show resources</summary>
 
+- **[Ask a Manager](https://www.askamanager.org)** - Get plain-spoken answers to real workplace and career questions ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Breaking Math](https://www.breakingmath.io)** - Weekly conversations making math concepts click ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[College Info Geek](https://collegeinfogeek.com)** - Thomas Frank's long-running blog, podcast, and videos on study skills and student productivity ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Cortex](https://www.relay.fm/cortex)** - Weekly conversations on productivity systems, tools, and workflows ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
@@ -456,6 +461,7 @@ Written and audio deep dives on how to learn, focus, and work better.
 - **[Sspai](https://sspai.com)** - Chinese-language guides to apps, productivity, and digital life ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[Stuff You Missed in History Class](https://missedinhistory.com)** - Two-a-week deep dives into overlooked history ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[TED en Español](https://www.ted.com/podcasts/ted-en-espanol)** - Weekly Spanish-language podcast of TED talks on ideas worth spreading ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[The College Investor](https://thecollegeinvestor.com)** - Learn student loans, saving and investing as a young adult ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[The Learning Scientists Podcast](https://www.learningscientists.org/learning-scientists-podcast)** - Evidence-based study techniques explained by cognitive scientists ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Zeitblüten](https://www.zeitblueten.com)** - German-language blog on time management, focus, and self-organization ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 
@@ -479,8 +485,10 @@ Study skill and mindset books worth your time.
 - **[How to Take Smart Notes](https://takesmartnotes.com)** - Turn reading into writing with a note system ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[Ikigai](https://www.penguinrandomhouse.com/books/549469/ikigai-by-hector-garcia-and-francesc-miralles/)** - Héctor García and Francesc Miralles on discovering your life's purpose ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[Make It Stick](https://www.hup.harvard.edu/books/9780674729018)** - The science of durable, effective learning ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
+- **[Mind Over Mood](https://www.guilford.com/books/Mind-Over-Mood/Greenberger-Padesky/9781462520428)** - Manage anxiety and low mood with CBT worksheets ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[Mindset](https://www.mindsetonline.com)** - Carol Dweck's companion site on growth versus fixed mindsets ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[Peak: Secrets from the New Science of Expertise](https://peakthebook.com/)** - Learn deliberate practice for developing expertise ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
+- **[Steal Like an Artist](https://austinkleon.com/steal/)** - Get 10 practical rules for making creative work ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[Talk Like TED](https://www.panmacmillan.com/authors/carmine-gallo/talk-like-ted/9781529068658)** - Carmine Gallo's nine public-speaking techniques drawn from top TED talks ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[The 7 Habits of Highly Effective People](https://www.franklincovey.com/books/the-7-habits-of-highly-effective-people/)** - Build habits for effective goals and priorities ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[The Art of Learning](https://www.simonandschuster.com/books/The-Art-of-Learning/Josh-Waitzkin/9780743277464)** - Josh Waitzkin on the mental principles behind mastering any skill ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
@@ -505,7 +513,9 @@ Meta-skills: how to study, remember, and focus.
 - **[Ali Abdaal](https://aliabdaal.com)** - Evidence-based study and productivity guides ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Anki Manual](https://docs.ankiweb.net/)** - The official guide to spaced repetition with Anki ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Cornell Note-Taking System](https://lsc.cornell.edu/how-to-study/taking-notes/cornell-note-taking-system/)** - Cornell University's official guide to the Cornell note-taking method ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Digital Distractions](https://www.niu.edu/academic-support/student-guides/digital-distractions.shtml)** - Cut phone and screen distractions while you study ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Feynman Technique](https://fs.blog/feynman-technique/)** - Learn any topic by explaining it in simple terms ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[How to Email a Professor](https://dennislearningcenter.osu.edu/how-to-email-a-professor/)** - Write clear, polite emails to professors ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)** - S. Keshav's three-pass method for reading research papers ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[How to Remember Anything Forever-ish](https://ncase.me/remember/)** - Playable primer on spaced repetition ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Interleaving](https://academicaffairs.arizona.edu/Interleaving)** - University of Arizona's free guide to mixing topics while studying for better retention ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
@@ -546,6 +556,7 @@ Free, reputable support for stress, burnout, and everything school doesn't teach
 - **[JED Foundation](https://jedfoundation.org)** - Nonprofit resources on managing finals-week and exam-period burnout ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[NAMI HelpLine](https://www.nami.org/nami-helpline/)** - Free, nationwide peer support and resource referrals for mental health conditions ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[NHS Every Mind Matters](https://www.nhs.uk/every-mind-matters/)** - Free official guidance on stress, anxiety, and sleep ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[NHS Sleep Advice](https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/)** - Build sleep habits and a bedtime routine that help you rest ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Nightline Europe](https://nightlines.eu/europe/)** - Network of student-run anonymous listening services across Europe ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[SADAG](https://www.sadag.org)** - South African helplines and free support groups for depression and anxiety ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Samaritans](https://www.samaritans.org/)** - Free, confidential support from trained listeners, 24 hours a day ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
@@ -553,6 +564,7 @@ Free, reputable support for stress, burnout, and everything school doesn't teach
 - **[Tele-MANAS](https://telemanas.mohfw.gov.in)** - India's free 24/7 mental health helpline, dial 14416 ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[TELL Japan](https://telljp.com)** - English and Japanese lifeline, chat, and counseling in Japan ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[The Trevor Project](https://www.thetrevorproject.org)** - Free, confidential crisis support and resources for LGBTQ+ young people ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[UCLA Mindful](https://www.uclahealth.org/uclamindful/free-guided-meditations)** - Follow free guided meditations from UCLA's mindfulness center ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 
 </details>
 
