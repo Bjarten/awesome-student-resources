@@ -514,6 +514,7 @@ Meta-skills: how to study, remember, and focus.
 - **[Anki Manual](https://docs.ankiweb.net/)** - The official guide to spaced repetition with Anki ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Cornell Note-Taking System](https://lsc.cornell.edu/how-to-study/taking-notes/cornell-note-taking-system/)** - Cornell University's official guide to the Cornell note-taking method ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Feynman Technique](https://fs.blog/feynman-technique/)** - Learn any topic by explaining it in simple terms ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[How to Email a Professor](https://dennislearningcenter.osu.edu/how-to-email-a-professor/)** - Write clear, polite emails to professors ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)** - S. Keshav's three-pass method for reading research papers ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[How to Remember Anything Forever-ish](https://ncase.me/remember/)** - Playable primer on spaced repetition ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Interleaving](https://academicaffairs.arizona.edu/Interleaving)** - University of Arizona's free guide to mixing topics while studying for better retention ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
