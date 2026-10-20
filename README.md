@@ -599,6 +599,7 @@ Ask questions and study alongside other students.
 - **[She Code Africa](https://shecodeafrica.org/)** - Pan-African nonprofit community and mentorship network for women and girls in tech ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Study Together](https://studytogether.com)** - Large Discord and livestream community for study accountability ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[StudyStream](https://www.studystream.live)** - 24/7 video study rooms and a Discord community to stay accountable ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
+- **[Tandem](https://tandem.net)** - Practise a language with native speakers who learn yours ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[The GradCafe](https://www.thegradcafe.com)** - Grad school applicant forums with admissions results and advice ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 
 </details>
