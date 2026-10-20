@@ -2942,6 +2942,17 @@
     "subsection": null
   },
   {
+    "name": "The College Investor",
+    "url": "https://thecollegeinvestor.com",
+    "description": "Learn student loans, saving and investing as a young adult",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Blogs, Newsletters & Podcasts",
+    "subsection": null
+  },
+  {
     "name": "The Learning Scientists Podcast",
     "url": "https://www.learningscientists.org/learning-scientists-podcast",
     "description": "Evidence-based study techniques explained by cognitive scientists",
