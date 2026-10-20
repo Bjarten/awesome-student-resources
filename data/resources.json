@@ -77,6 +77,17 @@
     "subsection": null
   },
   {
+    "name": "European Youth Card",
+    "url": "https://eyca.org",
+    "description": "Get discounts across Europe with a card for anyone under 31",
+    "pricing": "paid",
+    "tags": [
+      "paid"
+    ],
+    "section": "Student Discounts & Free Access",
+    "subsection": null
+  },
+  {
     "name": "Figma Education",
     "url": "https://www.figma.com/education/",
     "description": "Figma's paid plan free for students and educators with verification",

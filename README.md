@@ -68,6 +68,7 @@ Legitimate free or discounted access students often miss, verify with a school e
 - **[Buddy4Study Student Discounts](https://www.buddy4study.com/student-discounts)** - Verified student offers from Indian and global brands ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Canva for Education](https://www.canva.com/education/)** - Canva's paid design tools free for verified K-12 students and teachers ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Documento Nacional do Estudante](https://www.documentodoestudante.com.br/)** - Brazil's official student ID for half-price tickets ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
+- **[European Youth Card](https://eyca.org)** - Get discounts across Europe with a card for anyone under 31 ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[Figma Education](https://www.figma.com/education/)** - Figma's paid plan free for students and educators with verification ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[GitHub Student Developer Pack](https://education.github.com/pack)** - Free developer tools and credits for verified students ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Grammarly for Education](https://www.grammarly.com/edu)** - AI writing assistant free for verified students and schools ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
