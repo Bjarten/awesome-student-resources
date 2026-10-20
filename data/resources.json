@@ -3565,6 +3565,17 @@
     "subsection": null
   },
   {
+    "name": "UCLA Mindful",
+    "url": "https://www.uclahealth.org/uclamindful/free-guided-meditations",
+    "description": "Follow free guided meditations from UCLA's mindfulness center",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Mental Health & Wellbeing",
+    "subsection": null
+  },
+  {
     "name": "Academia Stack Exchange",
     "url": "https://academia.stackexchange.com",
     "description": "Q&A on academic life, research, and navigating school systems",
