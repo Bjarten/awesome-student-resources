@@ -33,6 +33,17 @@
     "subsection": null
   },
   {
+    "name": "AT&T Signature Savings",
+    "url": "https://www.att.com/wireless/what-is-att-signature-savings/",
+    "description": "Save up to 20% on AT&T wireless plans as a verified student",
+    "pricing": "paid",
+    "tags": [
+      "paid"
+    ],
+    "section": "Student Discounts & Free Access",
+    "subsection": null
+  },
+  {
     "name": "Autodesk Education",
     "url": "https://www.autodesk.com/education/edu-software/overview",
     "description": "Free one-year access to Autodesk design and engineering software for verified students",
