@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-347-blue)
+![Resources](https://img.shields.io/badge/resources-363-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -33,20 +33,20 @@ This list covers life around school: discounts, money, career prep, and wellbein
 
 |     | Section                                                                        | Resources |
 | :-: | ------------------------------------------------------------------------------ | :-------: |
-| 🎓  | [Student Discounts & Free Access](#student-discounts--free-access)             |    23     |
-| 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |    22     |
+| 🎓  | [Student Discounts & Free Access](#student-discounts--free-access)             |    24     |
+| 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |    23     |
 | 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |    20     |
 | 🎯  | [University & Career Prep](#university--career-prep)                           |    79     |
 | 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |    18     |
 | 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |    20     |
 | 🏠  | [Homeschooling](#homeschooling)                                                |    18     |
-| 🔓  | [FOSS Picks](#foss-picks)                                                      |    31     |
+| 🔓  | [FOSS Picks](#foss-picks)                                                      |    34     |
 | 📦  | [Helpful Repositories](#helpful-repositories)                                  |    15     |
-| 📖  | [Books We Trust](#books-we-trust)                                              |    20     |
-| 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    19     |
-| 💡  | [Guides & How-Tos](#guides--how-tos)                                           |    17     |
-| 🧘  | [Mental Health & Wellbeing](#mental-health--wellbeing)                         |    24     |
-| 👥  | [Communities](#communities)                                                    |    23     |
+| 📖  | [Books We Trust](#books-we-trust)                                              |    21     |
+| 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    20     |
+| 💡  | [Guides & How-Tos](#guides--how-tos)                                           |    19     |
+| 🧘  | [Mental Health & Wellbeing](#mental-health--wellbeing)                         |    25     |
+| 👥  | [Communities](#communities)                                                    |    24     |
 
 [More from StudentSuite](#more-from-studentsuite) &middot; [Sister lists](#sister-lists) &middot; [A Note on Links](#a-note-on-links) &middot; [Quality Standards](#quality-standards) &middot; [Contributing](#contributing) &middot; [Contributors](#contributors) &middot; [License](#license)
 
