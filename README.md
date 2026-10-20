@@ -34,7 +34,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 |     | Section                                                                        | Resources |
 | :-: | ------------------------------------------------------------------------------ | :-------: |
 | 🎓  | [Student Discounts & Free Access](#student-discounts--free-access)             |    23     |
-| 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |    21     |
+| 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |    22     |
 | 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |    20     |
 | 🎯  | [University & Career Prep](#university--career-prep)                           |    78     |
 | 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |    18     |
@@ -117,6 +117,7 @@ Legitimate, fee-free places to find money for school.
 - **[Student Awards](https://studentawards.com)** - Searchable database of Canadian scholarships, browsable by province ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Study in Japan](https://www.studyinjapan.go.jp/en/planning/scholarships/)** - Japanese government hub for MEXT, JASSO, and university scholarships to study in Japan ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[The Scholarship Hub](https://www.thescholarshiphub.org.uk)** - No-fee search across UK scholarships, bursaries, and grants ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Wells Fargo Stacey Milbern Scholarship](https://scholarshipamerica.org/scholarship/pwdscholarship/)** - Apply for renewable awards for US students with disabilities ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 
 </details>
 
