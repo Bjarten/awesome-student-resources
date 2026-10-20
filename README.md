@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-346-blue)
+![Resources](https://img.shields.io/badge/resources-347-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -44,7 +44,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 📦  | [Helpful Repositories](#helpful-repositories)                                  |    15     |
 | 📖  | [Books We Trust](#books-we-trust)                                              |    19     |
 | 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    18     |
-| 💡  | [Guides & How-Tos](#guides--how-tos)                                           |    17     |
+| 💡  | [Guides & How-Tos](#guides--how-tos)                                           |    18     |
 | 🧘  | [Mental Health & Wellbeing](#mental-health--wellbeing)                         |    23     |
 | 👥  | [Communities](#communities)                                                    |    23     |
 
@@ -506,6 +506,7 @@ Meta-skills: how to study, remember, and focus.
 - **[Anki Manual](https://docs.ankiweb.net/)** - The official guide to spaced repetition with Anki ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Cornell Note-Taking System](https://lsc.cornell.edu/how-to-study/taking-notes/cornell-note-taking-system/)** - Cornell University's official guide to the Cornell note-taking method ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Feynman Technique](https://fs.blog/feynman-technique/)** - Learn any topic by explaining it in simple terms ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[How to Email a Professor](https://dennislearningcenter.osu.edu/how-to-email-a-professor/)** - Write clear, polite emails to professors ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)** - S. Keshav's three-pass method for reading research papers ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[How to Remember Anything Forever-ish](https://ncase.me/remember/)** - Playable primer on spaced repetition ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Interleaving](https://academicaffairs.arizona.edu/Interleaving)** - University of Arizona's free guide to mixing topics while studying for better retention ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
