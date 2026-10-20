@@ -2433,6 +2433,18 @@
     "subsection": null
   },
   {
+    "name": "MuseScore Studio",
+    "url": "https://musescore.org",
+    "description": "Write, play back and print sheet music",
+    "pricing": "free",
+    "tags": [
+      "FOSS",
+      "free"
+    ],
+    "section": "FOSS Picks",
+    "subsection": null
+  },
+  {
     "name": "OBS Studio",
     "url": "https://obsproject.com",
     "description": "Free, open screen recording and live streaming",
