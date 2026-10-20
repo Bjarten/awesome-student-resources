@@ -2517,6 +2517,18 @@
     "subsection": null
   },
   {
+    "name": "VSCodium",
+    "url": "https://vscodium.com",
+    "description": "Edit code in a telemetry-free build of VS Code",
+    "pricing": "free",
+    "tags": [
+      "FOSS",
+      "free"
+    ],
+    "section": "FOSS Picks",
+    "subsection": null
+  },
+  {
     "name": "YYLO",
     "url": "https://github.com/yylo-dev/yylo",
     "description": "Orchestrate AI coding agents from the terminal with repeatable workflows",
