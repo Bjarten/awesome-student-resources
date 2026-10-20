@@ -165,6 +165,17 @@
     "subsection": null
   },
   {
+    "name": "NoteGoblin",
+    "url": "https://notegoblin-app.vercel.app",
+    "description": "Turn your own notes or lecture recordings into flashcards and quizzes",
+    "pricing": "freemium",
+    "tags": [
+      "freemium"
+    ],
+    "section": "Student Discounts & Free Access",
+    "subsection": null
+  },
+  {
     "name": "Notion for Education",
     "url": "https://www.notion.com/product/notion-for-education",
     "description": "Notion's paid plan free for students with a school email",
