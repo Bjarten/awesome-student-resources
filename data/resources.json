@@ -2766,6 +2766,17 @@
     "subsection": null
   },
   {
+    "name": "Ask a Manager",
+    "url": "https://www.askamanager.org",
+    "description": "Get plain-spoken answers to real workplace and career questions",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Blogs, Newsletters & Podcasts",
+    "subsection": null
+  },
+  {
     "name": "Breaking Math",
     "url": "https://www.breakingmath.io",
     "description": "Weekly conversations making math concepts click",

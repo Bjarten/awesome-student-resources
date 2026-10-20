@@ -444,6 +444,7 @@ Written and audio deep dives on how to learn, focus, and work better.
 <details open>
 <summary>Show resources</summary>
 
+- **[Ask a Manager](https://www.askamanager.org)** - Get plain-spoken answers to real workplace and career questions ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Breaking Math](https://www.breakingmath.io)** - Weekly conversations making math concepts click ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[College Info Geek](https://collegeinfogeek.com)** - Thomas Frank's long-running blog, podcast, and videos on study skills and student productivity ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Cortex](https://www.relay.fm/cortex)** - Weekly conversations on productivity systems, tools, and workflows ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
