@@ -98,6 +98,7 @@ Legitimate, fee-free places to find money for school.
 
 - **[Australia Awards](https://www.dfat.gov.au/people-to-people/australia-awards/pages/australia-awards.aspx)** - Australian government scholarships for study from the Pacific and beyond ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Bold.org](https://bold.org)** - Free, no-fee scholarships matched to your profile daily ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Bold.org Art Scholarships](https://bold.org/scholarships/by-major/art-scholarships/)** - Find and apply to art, design and music scholarships ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Buddy4Study](https://www.buddy4study.com)** - India's largest free scholarship search platform for students ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[DAFI Scholarship Programme](https://www.unhcr.org/what-we-do/build-better-futures/education/higher-education-and-skills/dafi-tertiary-scholarship-0)** - UNHCR-run undergraduate scholarships for qualified refugee students ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Erasmus Mundus Joint Masters](https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters)** - EU-funded full scholarships for joint master's programmes worldwide ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
