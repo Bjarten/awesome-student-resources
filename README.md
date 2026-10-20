@@ -266,7 +266,7 @@ Hackathons, competitions, and the tools to build something worth entering.
 - **[Upwork](https://www.upwork.com)** - Global freelance marketplace for remote work you can do from anywhere ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[Wantedly](https://www.wantedly.com/)** - Find Japanese startup jobs and internships through a free profile ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[WayUp](https://www.wayup.com)** - Free job board for internships and part-time work aimed at students ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[Wyzant](https://www.wyzant.com)** - Tutor students one-on-one and set your own hourly rate ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Wyzant](https://www.wyzant.com)** - Tutor one-on-one, set your rate, keep 75% of it ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 
 </details>
 
