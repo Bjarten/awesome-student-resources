@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-346-blue)
+![Resources](https://img.shields.io/badge/resources-347-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -43,7 +43,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🔓  | [FOSS Picks](#foss-picks)                                                      |    30     |
 | 📦  | [Helpful Repositories](#helpful-repositories)                                  |    15     |
 | 📖  | [Books We Trust](#books-we-trust)                                              |    19     |
-| 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    18     |
+| 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    19     |
 | 💡  | [Guides & How-Tos](#guides--how-tos)                                           |    17     |
 | 🧘  | [Mental Health & Wellbeing](#mental-health--wellbeing)                         |    23     |
 | 👥  | [Communities](#communities)                                                    |    23     |
@@ -440,6 +440,7 @@ Written and audio deep dives on how to learn, focus, and work better.
 <details open>
 <summary>Show resources</summary>
 
+- **[Ask a Manager](https://www.askamanager.org)** - Get plain-spoken answers to real workplace and career questions ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Breaking Math](https://www.breakingmath.io)** - Weekly conversations making math concepts click ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[College Info Geek](https://collegeinfogeek.com)** - Thomas Frank's long-running blog, podcast, and videos on study skills and student productivity ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Cortex](https://www.relay.fm/cortex)** - Weekly conversations on productivity systems, tools, and workflows ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
