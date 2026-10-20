@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-346-blue)
+![Resources](https://img.shields.io/badge/resources-347-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -45,7 +45,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 📖  | [Books We Trust](#books-we-trust)                                              |    19     |
 | 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    18     |
 | 💡  | [Guides & How-Tos](#guides--how-tos)                                           |    17     |
-| 🧘  | [Mental Health & Wellbeing](#mental-health--wellbeing)                         |    23     |
+| 🧘  | [Mental Health & Wellbeing](#mental-health--wellbeing)                         |    24     |
 | 👥  | [Communities](#communities)                                                    |    23     |
 
 [More from StudentSuite](#more-from-studentsuite) &middot; [Sister lists](#sister-lists) &middot; [A Note on Links](#a-note-on-links) &middot; [Quality Standards](#quality-standards) &middot; [Contributing](#contributing) &middot; [Contributors](#contributors) &middot; [License](#license)
@@ -546,6 +546,7 @@ Free, reputable support for stress, burnout, and everything school doesn't teach
 - **[JED Foundation](https://jedfoundation.org)** - Nonprofit resources on managing finals-week and exam-period burnout ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[NAMI HelpLine](https://www.nami.org/nami-helpline/)** - Free, nationwide peer support and resource referrals for mental health conditions ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[NHS Every Mind Matters](https://www.nhs.uk/every-mind-matters/)** - Free official guidance on stress, anxiety, and sleep ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[NHS Sleep Advice](https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/)** - Build sleep habits and a bedtime routine that help you rest ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Nightline Europe](https://nightlines.eu/europe/)** - Network of student-run anonymous listening services across Europe ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[SADAG](https://www.sadag.org)** - South African helplines and free support groups for depression and anxiety ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Samaritans](https://www.samaritans.org/)** - Free, confidential support from trained listeners, 24 hours a day ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
