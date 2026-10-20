@@ -2265,6 +2265,18 @@
     "subsection": null
   },
   {
+    "name": "Firefox",
+    "url": "https://www.firefox.com/",
+    "description": "Browse the web with Mozilla's open-source browser",
+    "pricing": "free",
+    "tags": [
+      "FOSS",
+      "free"
+    ],
+    "section": "FOSS Picks",
+    "subsection": null
+  },
+  {
     "name": "Freeplane",
     "url": "https://www.freeplane.org",
     "description": "Free, open mind-mapping tool with AI integration",

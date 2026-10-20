@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-346-blue)
+![Resources](https://img.shields.io/badge/resources-347-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -40,7 +40,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |    18     |
 | 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |    20     |
 | 🏠  | [Homeschooling](#homeschooling)                                                |    18     |
-| 🔓  | [FOSS Picks](#foss-picks)                                                      |    30     |
+| 🔓  | [FOSS Picks](#foss-picks)                                                      |    31     |
 | 📦  | [Helpful Repositories](#helpful-repositories)                                  |    15     |
 | 📖  | [Books We Trust](#books-we-trust)                                              |    19     |
 | 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    18     |
@@ -378,6 +378,7 @@ Fully free and open-source tools worth installing.
 - **[calibre](https://calibre-ebook.com)** - Manage, convert, and read e-books in one library ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Excalidraw](https://excalidraw.com)** - Free, open-source virtual whiteboard for sketching hand-drawn diagrams ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Firefly III](https://www.firefly-iii.org)** - Free, open, self-hosted personal finance and budgeting manager ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Firefox](https://www.firefox.com/)** - Browse the web with Mozilla's open-source browser ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Freeplane](https://www.freeplane.org)** - Free, open mind-mapping tool with AI integration ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[GIMP](https://www.gimp.org)** - Free, open image editor ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Habitica](https://habitica.com)** - Free, open-source habit and task tracker with RPG-style gamification ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
