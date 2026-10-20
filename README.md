@@ -564,6 +564,7 @@ Free, reputable support for stress, burnout, and everything school doesn't teach
 - **[Tele-MANAS](https://telemanas.mohfw.gov.in)** - India's free 24/7 mental health helpline, dial 14416 ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[TELL Japan](https://telljp.com)** - English and Japanese lifeline, chat, and counseling in Japan ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[The Trevor Project](https://www.thetrevorproject.org)** - Free, confidential crisis support and resources for LGBTQ+ young people ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[UCLA Mindful](https://www.uclahealth.org/uclamindful/free-guided-meditations)** - Follow free guided meditations from UCLA's mindfulness center ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 
 </details>
 
