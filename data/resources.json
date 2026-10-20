@@ -3807,6 +3807,17 @@
     "subsection": null
   },
   {
+    "name": "Tandem",
+    "url": "https://tandem.net",
+    "description": "Practise a language with native speakers who learn yours",
+    "pricing": "freemium",
+    "tags": [
+      "freemium"
+    ],
+    "section": "Communities",
+    "subsection": null
+  },
+  {
     "name": "The GradCafe",
     "url": "https://www.thegradcafe.com",
     "description": "Grad school applicant forums with admissions results and advice",
