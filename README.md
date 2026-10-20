@@ -483,6 +483,7 @@ Study skill and mindset books worth your time.
 - **[How to Take Smart Notes](https://takesmartnotes.com)** - Turn reading into writing with a note system ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[Ikigai](https://www.penguinrandomhouse.com/books/549469/ikigai-by-hector-garcia-and-francesc-miralles/)** - Héctor García and Francesc Miralles on discovering your life's purpose ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[Make It Stick](https://www.hup.harvard.edu/books/9780674729018)** - The science of durable, effective learning ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
+- **[Mind Over Mood](https://www.guilford.com/books/Mind-Over-Mood/Greenberger-Padesky/9781462520428)** - Manage anxiety and low mood with CBT worksheets ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[Mindset](https://www.mindsetonline.com)** - Carol Dweck's companion site on growth versus fixed mindsets ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[Peak: Secrets from the New Science of Expertise](https://peakthebook.com/)** - Learn deliberate practice for developing expertise ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[Steal Like an Artist](https://austinkleon.com/steal/)** - Get 10 practical rules for making creative work ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
