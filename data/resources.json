@@ -2441,6 +2441,18 @@
     "subsection": null
   },
   {
+    "name": "Koru",
+    "url": "https://www.koru.do",
+    "description": "Free, open, local-first workspace for notes, docs, and files",
+    "pricing": "free",
+    "tags": [
+      "FOSS",
+      "free"
+    ],
+    "section": "FOSS Picks",
+    "subsection": null
+  },
+  {
     "name": "Krita",
     "url": "https://krita.org",
     "description": "Free, open painting and illustration app",
