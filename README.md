@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-364-blue)
+![Resources](https://img.shields.io/badge/resources-369-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -33,14 +33,14 @@ This list covers life around school: discounts, money, career prep, and wellbein
 
 |     | Section                                                                        | Resources |
 | :-: | ------------------------------------------------------------------------------ | :-------: |
-| 🎓  | [Student Discounts & Free Access](#student-discounts--free-access)             |    24     |
+| 🎓  | [Student Discounts & Free Access](#student-discounts--free-access)             |    27     |
 | 💰  | [Scholarships & Financial Aid](#scholarships--financial-aid)                   |    23     |
 | 💵  | [Financial Literacy & Money Management](#financial-literacy--money-management) |    20     |
 | 🎯  | [University & Career Prep](#university--career-prep)                           |    79     |
 | 🔧  | [Vocational & Alternative Paths](#vocational--alternative-paths)               |    18     |
 | 🎤  | [Debate & Public Speaking](#debate--public-speaking)                           |    20     |
 | 🏠  | [Homeschooling](#homeschooling)                                                |    18     |
-| 🔓  | [FOSS Picks](#foss-picks)                                                      |    34     |
+| 🔓  | [FOSS Picks](#foss-picks)                                                      |    35     |
 | 📦  | [Helpful Repositories](#helpful-repositories)                                  |    15     |
 | 📖  | [Books We Trust](#books-we-trust)                                              |    21     |
 | 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    20     |
@@ -64,6 +64,7 @@ Legitimate free or discounted access students often miss, verify with a school e
 - **[Adobe Creative Cloud](https://www.adobe.com/creativecloud/buy/students.html)** - Discounted Creative Cloud subscription for verified students ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[Amazon Prime Student](https://www.amazon.com/joinstudent)** - Free six-month trial, then discounted Prime shipping and streaming ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[Apple Education Store](https://www.apple.com/us-edu/store)** - Official discount pricing on Mac and iPad for students ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
+- **[AT&T Signature Savings](https://www.att.com/wireless/what-is-att-signature-savings/)** - Save up to 20% on AT&T wireless plans as a verified student ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[Autodesk Education](https://www.autodesk.com/education/edu-software/overview)** - Free one-year access to Autodesk design and engineering software for verified students ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Buddy4Study Student Discounts](https://www.buddy4study.com/student-discounts)** - Verified student offers from Indian and global brands ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Canva for Education](https://www.canva.com/education/)** - Canva's paid design tools free for verified K-12 students and teachers ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
@@ -76,6 +77,7 @@ Legitimate free or discounted access students often miss, verify with a school e
 - **[JetBrains for Students](https://www.jetbrains.com/academy/student-pack/)** - All JetBrains IDEs free for students with a school email ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[MHexplorer](https://www.malaysiaairlines.com/my/en/other-offerings/mhexplorer.html)** - Malaysia Airlines fare discounts and extra baggage for ages 13 to 26 ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Microsoft 365 Education](https://www.microsoft.com/en-us/education/products/office)** - Free Word, Excel, PowerPoint, and Teams with a school email ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[NoteGoblin](https://notegoblin-app.vercel.app)** - Turn your own notes or lecture recordings into flashcards and quizzes ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[Notion for Education](https://www.notion.com/product/notion-for-education)** - Notion's paid plan free for students with a school email ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Proton for Students](https://proton.me/student)** - Discounted Proton VPN, Mail, and Drive for verified students ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[Rakuten Gakuwari](https://event.rakuten.co.jp/young/)** - Free Japanese shopping and entertainment discount program for students aged 15-25 ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
@@ -83,6 +85,7 @@ Legitimate free or discounted access students often miss, verify with a school e
 - **[Student Beans](https://www.studentbeans.com)** - Verifies student status for discounts across fashion, food, and tech brands worldwide ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[StudentCard](https://www.studentcard.co.nz)** - New Zealand's student discount card for retail, food, and travel ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[StudentVerse](https://studentverse.ae/)** - UAE student ID app unlocking discounts on food, fitness, housing, and entertainment ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Three UK Student Discount](https://www.three.co.uk/offers/student-discount)** - Get 20% off phone, SIM-only and broadband plans with a UK student email ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[UNiDAYS](https://www.myunidays.com)** - Free student-verification platform unlocking discounts across hundreds of brands ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Varsity Vibe](https://www.varsityvibe.co.za)** - South African student discount app with deals from local brands ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 
@@ -393,6 +396,7 @@ Fully free and open-source tools worth installing.
 - **[Joplin](https://joplinapp.org)** - Free, open note-taking app with markdown and sync ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Kdenlive](https://kdenlive.org)** - Free, open, cross-platform non-linear video editor ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[KeePassXC](https://keepassxc.org)** - Free, open-source, offline password manager ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Koru](https://www.koru.do)** - Free, open, local-first workspace for notes, docs, and files ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Krita](https://krita.org)** - Free, open painting and illustration app ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[LanguageTool](https://languagetool.org)** - Open-source grammar, style, and spell checker for 30+ languages ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[LibreOffice](https://www.libreoffice.org)** - Free, open office suite: documents, spreadsheets, slides ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
@@ -602,6 +606,7 @@ Ask questions and study alongside other students.
 - **[r/Indian_Academia](https://www.reddit.com/r/Indian_Academia/)** - Active community for Indian students on academics and admissions ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[r/SAT](https://www.reddit.com/r/SAT/)** - Strategy, practice, and score discussion for the SAT ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[She Code Africa](https://shecodeafrica.org/)** - Pan-African nonprofit community and mentorship network for women and girls in tech ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Startup School](https://www.startupschool.org/)** - Take Y Combinator's free founder course and find a co-founder ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Study Together](https://studytogether.com)** - Large Discord and livestream community for study accountability ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[StudyStream](https://www.studystream.live)** - 24/7 video study rooms and a Discord community to stay accountable ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[Tandem](https://tandem.net)** - Practise a language with native speakers who learn yours ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).

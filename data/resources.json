@@ -33,6 +33,17 @@
     "subsection": null
   },
   {
+    "name": "AT&T Signature Savings",
+    "url": "https://www.att.com/wireless/what-is-att-signature-savings/",
+    "description": "Save up to 20% on AT&T wireless plans as a verified student",
+    "pricing": "paid",
+    "tags": [
+      "paid"
+    ],
+    "section": "Student Discounts & Free Access",
+    "subsection": null
+  },
+  {
     "name": "Autodesk Education",
     "url": "https://www.autodesk.com/education/edu-software/overview",
     "description": "Free one-year access to Autodesk design and engineering software for verified students",
@@ -165,6 +176,17 @@
     "subsection": null
   },
   {
+    "name": "NoteGoblin",
+    "url": "https://notegoblin-app.vercel.app",
+    "description": "Turn your own notes or lecture recordings into flashcards and quizzes",
+    "pricing": "freemium",
+    "tags": [
+      "freemium"
+    ],
+    "section": "Student Discounts & Free Access",
+    "subsection": null
+  },
+  {
     "name": "Notion for Education",
     "url": "https://www.notion.com/product/notion-for-education",
     "description": "Notion's paid plan free for students with a school email",
@@ -237,6 +259,17 @@
     "pricing": "free",
     "tags": [
       "free"
+    ],
+    "section": "Student Discounts & Free Access",
+    "subsection": null
+  },
+  {
+    "name": "Three UK Student Discount",
+    "url": "https://www.three.co.uk/offers/student-discount",
+    "description": "Get 20% off phone, SIM-only and broadband plans with a UK student email",
+    "pricing": "paid",
+    "tags": [
+      "paid"
     ],
     "section": "Student Discounts & Free Access",
     "subsection": null
@@ -2441,6 +2474,18 @@
     "subsection": null
   },
   {
+    "name": "Koru",
+    "url": "https://www.koru.do",
+    "description": "Free, open, local-first workspace for notes, docs, and files",
+    "pricing": "free",
+    "tags": [
+      "FOSS",
+      "free"
+    ],
+    "section": "FOSS Picks",
+    "subsection": null
+  },
+  {
     "name": "Krita",
     "url": "https://krita.org",
     "description": "Free, open painting and illustration app",
@@ -3968,6 +4013,17 @@
     "name": "She Code Africa",
     "url": "https://shecodeafrica.org/",
     "description": "Pan-African nonprofit community and mentorship network for women and girls in tech",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Communities",
+    "subsection": null
+  },
+  {
+    "name": "Startup School",
+    "url": "https://www.startupschool.org/",
+    "description": "Take Y Combinator's free founder course and find a co-founder",
     "pricing": "free",
     "tags": [
       "free"
