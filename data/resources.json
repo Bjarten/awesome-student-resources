@@ -3911,6 +3911,17 @@
     "subsection": null
   },
   {
+    "name": "NextGenYouth",
+    "url": "https://www.nextgenyouth.org",
+    "description": "Join UNDP's network for young people across the Arab region",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Communities",
+    "subsection": null
+  },
+  {
     "name": "oSTEM",
     "url": "https://ostem.org",
     "description": "Nonprofit professional association and chapter network for LGBTQ+ people in STEM",
