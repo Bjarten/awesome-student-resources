@@ -253,6 +253,17 @@
     "subsection": null
   },
   {
+    "name": "Three UK Student Discount",
+    "url": "https://www.three.co.uk/offers/student-discount",
+    "description": "Get 20% off phone, SIM-only and broadband plans with a UK student email",
+    "pricing": "paid",
+    "tags": [
+      "paid"
+    ],
+    "section": "Student Discounts & Free Access",
+    "subsection": null
+  },
+  {
     "name": "UNiDAYS",
     "url": "https://www.myunidays.com",
     "description": "Free student-verification platform unlocking discounts across hundreds of brands",
@@ -3980,6 +3991,17 @@
     "name": "She Code Africa",
     "url": "https://shecodeafrica.org/",
     "description": "Pan-African nonprofit community and mentorship network for women and girls in tech",
+    "pricing": "free",
+    "tags": [
+      "free"
+    ],
+    "section": "Communities",
+    "subsection": null
+  },
+  {
+    "name": "Startup School",
+    "url": "https://www.startupschool.org/",
+    "description": "Take Y Combinator's free founder course and find a co-founder",
     "pricing": "free",
     "tags": [
       "free"
