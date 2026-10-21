@@ -46,7 +46,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | 🎧  | [Blogs, Newsletters & Podcasts](#blogs-newsletters--podcasts)                  |    20     |
 | 💡  | [Guides & How-Tos](#guides--how-tos)                                           |    19     |
 | 🧘  | [Mental Health & Wellbeing](#mental-health--wellbeing)                         |    25     |
-| 👥  | [Communities](#communities)                                                    |    25     |
+| 👥  | [Communities](#communities)                                                    |    26     |
 
 [More from StudentSuite](#more-from-studentsuite) &middot; [Sister lists](#sister-lists) &middot; [A Note on Links](#a-note-on-links) &middot; [Quality Standards](#quality-standards) &middot; [Contributing](#contributing) &middot; [Contributors](#contributors) &middot; [License](#license)
 
