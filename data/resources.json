@@ -782,7 +782,7 @@
   },
   {
     "name": "Aced",
-    "url": "https://www.tryexponent.com/practice",
+    "url": "https://www.aced.io/practice",
     "description": "Free peer and AI mock interviews for tech and PM roles, formerly Exponent",
     "pricing": "freemium",
     "tags": [
@@ -1134,7 +1134,7 @@
   },
   {
     "name": "MLH",
-    "url": "https://mlh.io/",
+    "url": "https://www.mlh.com/",
     "description": "Free calendar of student hackathons and events worldwide",
     "pricing": "free",
     "tags": [
@@ -1268,7 +1268,7 @@
   },
   {
     "name": "Cultural Care Au Pair",
-    "url": "https://culturalcare.com",
+    "url": "https://www.culturalcare.world/",
     "description": "Live with a US host family on a J-1 au pair program",
     "pricing": "paid",
     "tags": [
@@ -2017,7 +2017,7 @@
   },
   {
     "name": "ProCon.org",
-    "url": "https://www.procon.org",
+    "url": "https://www.britannica.com/procon",
     "description": "Free, nonpartisan pros-and-cons research on debated issues",
     "pricing": "free",
     "tags": [
@@ -2355,7 +2355,7 @@
   },
   {
     "name": "Freeplane",
-    "url": "https://www.freeplane.org",
+    "url": "https://docs.freeplane.org/",
     "description": "Free, open mind-mapping tool with AI integration",
     "pricing": "free",
     "tags": [
@@ -2750,7 +2750,7 @@
   },
   {
     "name": "developer-roadmap",
-    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "url": "https://github.com/nilbuild/developer-roadmap",
     "description": "Community-maintained learning roadmaps for over 30 tech roles",
     "pricing": "free",
     "tags": [
@@ -3406,7 +3406,7 @@
   },
   {
     "name": "Interleaving",
-    "url": "https://academicaffairs.arizona.edu/Interleaving",
+    "url": "https://academicaffairs.arizona.edu/l2l-strategy-interleaving",
     "description": "University of Arizona's free guide to mixing topics while studying for better retention",
     "pricing": "free",
     "tags": [

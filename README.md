@@ -170,7 +170,7 @@ What comes after exams: applications, resumes, interviews, and time away from th
 <summary>Applications &amp; Resumes resources</summary>
 
 - **[AAUW Work Smart](https://www.aauw.org/resources/programs/salary-negotiation/)** - Free self-paced online training on negotiating salary and job offers ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[Aced](https://www.tryexponent.com/practice)** - Free peer and AI mock interviews for tech and PM roles, formerly Exponent ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
+- **[Aced](https://www.aced.io/practice)** - Free peer and AI mock interviews for tech and PM roles, formerly Exponent ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[AHEAD](https://www.ahead.org)** - Resources on requesting disability accommodations and services at university ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Bayt.com Blog](https://www.bayt.com/en/blog/)** - Read CV, interview and job-search tips for the Middle East ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[CollegeVine](https://www.collegevine.com)** - Free peer and expert reviews for your college application essays ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
@@ -212,7 +212,7 @@ Hackathons, competitions, and the tools to build something worth entering.
 - **[HackMTY](https://hackmty.com)** - Student-run hackathon at Tec de Monterrey for Latin America ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[International Olympiad in Informatics](https://ioinformatics.org)** - Follow the annual world informatics contest for secondary students ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Junction](https://hackjunction.com)** - Student-run 48-hour hackathon in Finland, among Europe's largest ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[MLH](https://mlh.io/)** - Free calendar of student hackathons and events worldwide ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[MLH](https://www.mlh.com/)** - Free calendar of student hackathons and events worldwide ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[openvidstudio](https://openvidstudio.vercel.app)** - Open-source Remotion pipeline for AI agents to build quick product demo videos ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[OverTheWire](https://overthewire.org/wargames/)** - Learn security hands-on through Linux-based wargames ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Regeneron ISEF](https://www.societyforscience.org/isef/)** - The world's largest pre-college science and engineering fair ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
@@ -232,7 +232,7 @@ Hackathons, competitions, and the tools to build something worth entering.
 
 - **[AIMS](https://aims-rihed.net)** - Semester exchange across Southeast Asian and partner universities ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[AMEXCID](https://www.gob.mx/amexcid/acciones-y-programas/becas-para-extranjeros-29785)** - Mexico's official postgraduate scholarship program for international students ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[Cultural Care Au Pair](https://culturalcare.com)** - Live with a US host family on a J-1 au pair program ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
+- **[Cultural Care Au Pair](https://www.culturalcare.world/)** - Live with a US host family on a J-1 au pair program ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[DAAD](https://www.daad.de/en/)** - German academic exchange service listing study and scholarship programs ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Erasmus+](https://erasmus-plus.ec.europa.eu)** - The EU's official student mobility and exchange program ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[EU Immigration Portal](https://home-affairs.ec.europa.eu/policies/migration-and-asylum/legal-migration-and-resettlement/study-and-research_en)** - Official European Commission guidance on study visas and residence permits across the EU ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
@@ -332,7 +332,7 @@ Argumentation, Model UN, and speaking skills that carry into essays and intervie
 - **[Kialo Edu](https://www.kialo-edu.com)** - Free platform for structured, visual class debates and discussion ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[National Model United Nations](https://www.nmun.org)** - Model UN conferences and preparation resources from a nonprofit educational organization ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[National Speech & Debate Association](https://www.speechanddebate.org)** - Topic analysis, competition resources, and event guides ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
-- **[ProCon.org](https://www.procon.org)** - Free, nonpartisan pros-and-cons research on debated issues ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[ProCon.org](https://www.britannica.com/procon)** - Free, nonpartisan pros-and-cons research on debated issues ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[QatarDebate](https://qatardebate.org/)** - Qatar Foundation's debate programs, Arabic and English tournaments, and free publications ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Toastmasters International](https://www.toastmasters.org)** - Global public-speaking clubs and self-study materials ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[World Schools Debating Championships](https://www.wsdcdebating.org/services-4)** - The international high-school debate format's free training and adjudication guides ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
@@ -386,7 +386,7 @@ Fully free and open-source tools worth installing.
 - **[Excalidraw](https://excalidraw.com)** - Free, open-source virtual whiteboard for sketching hand-drawn diagrams ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Firefly III](https://www.firefly-iii.org)** - Free, open, self-hosted personal finance and budgeting manager ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Firefox](https://www.firefox.com/)** - Browse the web with Mozilla's open-source browser ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[Freeplane](https://www.freeplane.org)** - Free, open mind-mapping tool with AI integration ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Freeplane](https://docs.freeplane.org/)** - Free, open mind-mapping tool with AI integration ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[GIMP](https://www.gimp.org)** - Free, open image editor ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Habitica](https://habitica.com)** - Free, open-source habit and task tracker with RPG-style gamification ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Inkscape](https://inkscape.org)** - Free, open vector graphics editor ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
@@ -431,7 +431,7 @@ GitHub repositories worth starring: rosters, roadmaps, and starter material any 
 - **[build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)** - Curated tutorials for building your own Git, database, or shell from scratch ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[coding-interview-university](https://github.com/jwasham/coding-interview-university)** - Complete free study plan for becoming a software engineer ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)** - Learn data science fundamentals in a 10-week, 20-lesson curriculum ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)** - Community-maintained learning roadmaps for over 30 tech roles ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[developer-roadmap](https://github.com/nilbuild/developer-roadmap)** - Community-maintained learning roadmaps for over 30 tech roles ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[first-contributions](https://github.com/firstcontributions/first-contributions)** - Practice making your first open-source pull request step by step ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[free-programming-books](https://github.com/EbookFoundation/free-programming-books)** - Massive curated list of free programming and computer-science books ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** - Free, open curriculum and certifications for web development and programming ![FOSS](https://img.shields.io/badge/FOSS-3DA639?style=flat-square) ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
@@ -526,7 +526,7 @@ Meta-skills: how to study, remember, and focus.
 - **[How to Email a Professor](https://dennislearningcenter.osu.edu/how-to-email-a-professor/)** - Write clear, polite emails to professors ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)** - S. Keshav's three-pass method for reading research papers ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[How to Remember Anything Forever-ish](https://ncase.me/remember/)** - Playable primer on spaced repetition ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[Interleaving](https://academicaffairs.arizona.edu/Interleaving)** - University of Arizona's free guide to mixing topics while studying for better retention ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Interleaving](https://academicaffairs.arizona.edu/l2l-strategy-interleaving)** - University of Arizona's free guide to mixing topics while studying for better retention ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)** - The popular free course on how learning works ![freemium](https://img.shields.io/badge/freemium-F5A623?style=flat-square).
 - **[Pomodoro Technique](https://www.pomodorotechnique.com)** - Francesco Cirillo's official guide to the Pomodoro time-management method ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Purdue OWL](https://owl.purdue.edu/)** - Free guides to academic writing, research papers, and APA or MLA citation ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
