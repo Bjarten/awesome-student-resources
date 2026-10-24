@@ -38,7 +38,7 @@ Check the entry meets the [Quality Standards](README.md#quality-standards):
 For books and textbooks, use the title (add the author where it helps) and link to the official or publisher page:
 
 ```md
-- **[Deep Work](https://calnewport.com/books/deep-work/)** - Build the ability to focus without distraction ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
+- **[Deep Work](https://calnewport.com/deep-work-rules-for-focused-success-in-a-distracted-world/)** - Build the ability to focus without distraction ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 ```
 
 Keep the description to one line, roughly 10 words or fewer. Lead with a verb where it reads naturally, skip adjectives like "amazing" or "powerful," and put the tag badge(s) right before the closing period, not inside it. No em dashes.

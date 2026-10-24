@@ -190,7 +190,7 @@ What comes after exams: applications, resumes, interviews, and time away from th
 - **[The Muse](https://www.themuse.com/advice/cover-letters)** - Free cover letter guides, templates, and examples ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Transferology](https://www.transferology.com)** - Free tool to check how your course credits transfer between US colleges ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[UAC](https://www.uac.edu.au)** - The official university application portal for New South Wales and the ACT, Australia ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[UC Berkeley LinkedIn Guide](https://career.berkeley.edu/Info/LinkedIn)** - Free university career-center guide to building and optimizing a student LinkedIn profile ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[UC Berkeley LinkedIn Guide](https://career.berkeley.edu/prepare-for-success/networking/using-linkedin/)** - Free university career-center guide to building and optimizing a student LinkedIn profile ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[UCAS](https://www.ucas.com)** - The official UK application portal for undergraduate degree courses ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[UCAS Personal Statement Guide](https://www.ucas.com/applying/applying-to-university/writing-your-personal-statement)** - UCAS's free guide to writing a UK university personal statement ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[University of Edinburgh LinkedIn Guide](https://careers.ed.ac.uk/cvs-and-applications/creating-a-linkedin-profile)** - Careers-service guide to building a strong student LinkedIn profile ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
@@ -208,7 +208,7 @@ Hackathons, competitions, and the tools to build something worth entering.
 - **[Devpost](https://devpost.com/)** - Student hackathon platform with thousands of student-run events ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Diamond Challenge](https://diamondchallenge.org)** - Pitch a business or social venture for cash prizes, ages 14 to 18 ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Hack Club](https://hackclub.com)** - Nonprofit network of free coding clubs and hackathons for teens ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
-- **[Hack&Roll](https://hacknroll.nushackers.org/)** - NUS Hackers' free annual 24-hour student hackathon in Singapore ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[Hack&Roll](https://www.nushackers.org/)** - NUS Hackers' free annual 24-hour student hackathon in Singapore ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[HackMTY](https://hackmty.com)** - Student-run hackathon at Tec de Monterrey for Latin America ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[International Olympiad in Informatics](https://ioinformatics.org)** - Follow the annual world informatics contest for secondary students ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Junction](https://hackjunction.com)** - Student-run 48-hour hackathon in Finland, among Europe's largest ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
@@ -487,10 +487,10 @@ Study skill and mindset books worth your time.
 - **[A Mind for Numbers](https://barbaraoakley.com/books/a-mind-for-numbers/)** - Learn math and science even if you struggle ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[Atomic Habits](https://jamesclear.com/atomic-habits)** - Build study habits that actually stick ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[Broke Millennial](https://brokemillennial.com/get-the-book/)** - Erin Lowry on student loans, credit, budgeting, and talking about money ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
-- **[Deep Work](https://calnewport.com/books/deep-work/)** - Build the ability to focus without distraction ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
+- **[Deep Work](https://calnewport.com/deep-work-rules-for-focused-success-in-a-distracted-world/)** - Build the ability to focus without distraction ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[Designing Your Life](https://designingyour.life)** - Apply Stanford design thinking to plan a career and life ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[Grit: The Power of Passion and Perseverance](https://www.angeladuckworth.com/grit)** - Angela Duckworth on why passion and persistence beat raw talent ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
-- **[How to Take Smart Notes](https://takesmartnotes.com)** - Turn reading into writing with a note system ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
+- **[How to Take Smart Notes](https://www.soenkeahrens.de/en/takesmartnotes)** - Turn reading into writing with a note system ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[Ikigai](https://www.penguinrandomhouse.com/books/549469/ikigai-by-hector-garcia-and-francesc-miralles/)** - Héctor García and Francesc Miralles on discovering your life's purpose ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[Make It Stick](https://www.hup.harvard.edu/books/9780674729018)** - The science of durable, effective learning ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
 - **[Mind Over Mood](https://www.guilford.com/books/Mind-Over-Mood/Greenberger-Padesky/9781462520428)** - Manage anxiety and low mood with CBT worksheets ![paid](https://img.shields.io/badge/paid-D33833?style=flat-square).
