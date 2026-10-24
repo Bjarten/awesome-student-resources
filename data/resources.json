@@ -2294,9 +2294,9 @@
     "subsection": null
   },
   {
-    "name": "Cal.com",
-    "url": "https://cal.com",
-    "description": "Free, open-source, self-hostable scheduling and booking tool",
+    "name": "Cal.diy",
+    "url": "https://github.com/calcom/cal.diy",
+    "description": "Self-host scheduling and booking pages, the open edition of Cal.com",
     "pricing": "free",
     "tags": [
       "FOSS",
@@ -2428,7 +2428,7 @@
   {
     "name": "Jitsi Meet",
     "url": "https://meet.jit.si",
-    "description": "Free, open-source video calls with no account required",
+    "description": "Host free, open-source video calls; hosting needs a login",
     "pricing": "free",
     "tags": [
       "FOSS",
