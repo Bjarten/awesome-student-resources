@@ -109,9 +109,10 @@ Use a comma-separated list of [contribution types](https://allcontributors.org/r
 
 ## Optional: run checks locally before you push
 
-All scripts in `scripts/` are plain, dependency-free Node and need Node.js 18
-or later (they use the built-in `node:test` runner, which isn't available on
-older versions). `.nvmrc` pins this if you use `nvm`.
+All scripts in `scripts/` are plain, dependency-free Node and need Node.js 24
+(the current LTS release; they use the built-in `node:test` runner, which isn't
+available on older versions). `.nvmrc` pins this, and CI uses the same version,
+if you use `nvm`.
 
 A committed, opt-in pre-commit hook mirrors the CI lint job. Enable it once per clone with:
 
