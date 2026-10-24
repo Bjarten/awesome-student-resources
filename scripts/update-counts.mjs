@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 // Regenerates every derived count in README.md from the actual content:
-//   - the `resources-N` header badge (total entries across the whole list)
+//   - the `resources-N` header badge (total entries in content sections; the
+//     meta sections in NON_CONTENT_SECTIONS, e.g. "More from StudentSuite", are skipped)
 //   - the `sections-N` header badge (number of rows in the Table of Contents)
 //   - each per-section count in the Table of Contents table
 //
