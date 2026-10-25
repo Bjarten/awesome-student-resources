@@ -869,6 +869,17 @@
     "subsection": "Applications & Resumes"
   },
   {
+    "name": "JobEmerge",
+    "url": "https://www.jobemerge.work",
+    "description": "Check job fit and translate resumes into 19 languages",
+    "pricing": "freemium",
+    "tags": [
+      "freemium"
+    ],
+    "section": "University & Career Prep",
+    "subsection": "Applications & Resumes"
+  },
+  {
     "name": "JobStreet Career Advice",
     "url": "https://my.jobstreet.com/career-advice",
     "description": "Use resume templates and a practice interview tool for Southeast Asia",
