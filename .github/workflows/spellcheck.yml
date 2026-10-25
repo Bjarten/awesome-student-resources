@@ -7,6 +7,10 @@ on:
       - CONTRIBUTING.md
       - CODE_OF_CONDUCT.md
       - CHANGELOG.md
+      - SECURITY.md
+      - CONTRIBUTORS.md
+      - scripts/README.md
+      - .github/*.md
       - .codespellignore
   push:
     branches:
@@ -16,6 +20,10 @@ on:
       - CONTRIBUTING.md
       - CODE_OF_CONDUCT.md
       - CHANGELOG.md
+      - SECURITY.md
+      - CONTRIBUTORS.md
+      - scripts/README.md
+      - .github/*.md
       - .codespellignore
 
 jobs:
@@ -25,5 +33,5 @@ jobs:
       - uses: actions/checkout@v7
       - uses: codespell-project/actions-codespell@v2
         with:
-          path: README.md CONTRIBUTING.md CODE_OF_CONDUCT.md CHANGELOG.md
+          path: README.md CONTRIBUTING.md CODE_OF_CONDUCT.md CHANGELOG.md SECURITY.md CONTRIBUTORS.md scripts/README.md .github/*.md
           ignore_words_file: .codespellignore

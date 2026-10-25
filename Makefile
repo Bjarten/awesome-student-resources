@@ -21,6 +21,6 @@ counts:
 export:
 	node scripts/export-json.mjs
 
-# Same codespell check CI runs, scoped to the four docs it covers.
+# Same codespell check CI runs, including security and contributor-facing docs.
 spellcheck:
-	codespell README.md CONTRIBUTING.md CODE_OF_CONDUCT.md CHANGELOG.md --ignore-words=.codespellignore
+	codespell README.md CONTRIBUTING.md CODE_OF_CONDUCT.md CHANGELOG.md SECURITY.md CONTRIBUTORS.md scripts/README.md .github/*.md --ignore-words=.codespellignore
