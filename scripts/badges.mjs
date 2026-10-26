@@ -34,7 +34,8 @@ export function parseTaggedDescription(rawDescription) {
     .replace(BADGE_RE, '')
     .replace(/\s+/g, ' ')
     .replace(/\s+\./, '.')
-    .trim();
+    .trim()
+    .replace(/\.$/, '');
   return { description, tags };
 }
 
