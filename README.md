@@ -11,7 +11,7 @@ A curated list of the best software, tools, textbooks, channels, and resources f
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-367-blue)
+![Resources](https://img.shields.io/badge/resources-368-blue)
 ![Sections](https://img.shields.io/badge/sections-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v2.0.0-lightgrey.svg)](CHANGELOG.md)
 
@@ -34,7 +34,7 @@ This list covers life around school: discounts, money, career prep, and wellbein
 | Icon | Section | Resources |
 | :-: | --- | :-: |
 | <span role="img" aria-label="Student Discounts &amp; Free Access icon">🎓</span> | [Student Discounts & Free Access](#student-discounts--free-access) | 27 |
-| <span role="img" aria-label="Scholarships &amp; Financial Aid icon">💰</span> | [Scholarships & Financial Aid](#scholarships--financial-aid) | 23 |
+| <span role="img" aria-label="Scholarships &amp; Financial Aid icon">💰</span> | [Scholarships & Financial Aid](#scholarships--financial-aid) | 24 |
 | <span role="img" aria-label="Financial Literacy &amp; Money Management icon">💵</span> | [Financial Literacy & Money Management](#financial-literacy--money-management) | 20 |
 | <span role="img" aria-label="University &amp; Career Prep icon">🎯</span> | [University & Career Prep](#university--career-prep) | 80 |
 | <span role="img" aria-label="Vocational &amp; Alternative Paths icon">🔧</span> | [Vocational & Alternative Paths](#vocational--alternative-paths) | 18 |
@@ -116,6 +116,7 @@ Legitimate, fee-free places to find money for school.
 - **[Mandela Rhodes Scholarship](https://www.mandelarhodes.org/scholarship/apply/)** - Fully funded postgraduate scholarship and leadership program for African students in South Africa ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Mastercard Foundation Scholars Program](https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/)** - Full scholarships and mentorship for African students ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[MENA Scholar](https://menascholar.com)** - Free directory of study and language programs across the Middle East and North Africa ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
+- **[ScholarMatch](https://www.scholarmatch.me)** - AI-powered scholarship matching engine for fully funded international opportunities. ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Scholars4Dev](https://www.scholars4dev.com)** - Free scholarship search engine for students across Asia, Africa, and other developing regions ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Scholarships.com](https://www.scholarships.com)** - Free, vetted search across millions of scholarships and grants ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
 - **[Society of Women Engineers Scholarships](https://swe.org/apply-for-a-swe-scholarship/)** - Free-to-apply scholarships for women pursuing engineering degrees ![free](https://img.shields.io/badge/free-2489CA?style=flat-square).
